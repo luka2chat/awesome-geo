@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Discussions
+    url: https://github.com/luka2chat/awesome-geo/discussions
+    about: Ask questions and discuss GEO topics with the community
+  - name: GEO Research Paper
+    url: https://arxiv.org/abs/2311.09735
+    about: Read the original GEO research paper from Princeton University
+
