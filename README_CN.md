@@ -80,7 +80,6 @@
 - [E-E-A-T in the Age of AI](https://www.contentstrategy.com/eeat-ai-optimization) - AI 时代的 E-E-A-T 策略
 
 ### 视频教程
-
 - [GEO Explained: The Future of Search Optimization](https://www.youtube.com/watch?v=example1) - GEO 概念详解
 - [How to Get Your Brand Mentioned by ChatGPT](https://www.youtube.com/watch?v=example2) - 品牌 AI 可见度提升教程
 - [Perplexity SEO: Complete Guide](https://www.youtube.com/watch?v=example3) - Perplexity 优化完整指南
@@ -99,11 +98,16 @@
 
 | 工具 | 描述 | 链接 |
 |------|------|------|
+| **Conductor** | 端到端企业级 AEO 平台，结合 AEO/GEO 和传统 SEO。 [1] | [conductor.com](https://www.conductor.com) |
+| **Contently** | 集内容创作、优化和 AI 可见性追踪于一体的系统。 [2] | [contently.com](https://contently.com) |
 | **Profound** | 监测品牌在 AI 搜索引擎中的可见度 | [profound.ai](https://profound.ai) |
 | **Otterly.AI** | AI 搜索引擎排名追踪工具 | [otterly.ai](https://otterly.ai) |
 | **Peec AI** | 分析 AI 搜索中的品牌提及 | [peec.ai](https://peec.ai) |
 | **Knowatoa** | AI 搜索可见度分析平台 | [knowatoa.com](https://knowatoa.com) |
 | **AISearchRank** | AI 搜索排名监测 | [aisearchrank.com](https://aisearchrank.com) |
+| **SEOTalos** | 最适合 AI 模式和 AIO 追踪 [3] | [seotalos.com](https://seotalos.com) |
+| **WorkDuo.ai** | 最适合 AI 搜索优化新手团队快速实施 [3] | [workduo.ai](https://workduo.ai) |
+| **Quattr** | 专注于执行的 SEO 平台，连接传统搜索性能与新兴 AI 可见性信号。 [1] | [quattr.com](https://quattr.com) |
 
 ### 内容优化工具
 
@@ -115,6 +119,9 @@
 | **Frase** | AI 内容创作和优化 | [frase.io](https://frase.io) |
 | **NeuronWriter** | 基于 NLP 的内容优化 | [neuronwriter.com](https://neuronwriter.com) |
 | **Jasper** | AI 写作助手 | [jasper.ai](https://jasper.ai) |
+| **Writesonic** | 具有 AEO 功能的 AI 内容生成平台。 [1] | [writesonic.com](https://writesonic.com) |
+| **Athena** | 专注于理解 AI 引擎如何使用和引用内容的 AI 搜索智能平台。 [1] | [athena.com](https://athena.com) |
+| **Answer Socrates** | 最适合 GEO 关键词发现 [3] | [answersocrates.com](https://answersocrates.com) |
 
 ### 品牌监测
 
@@ -141,33 +148,34 @@
 ### 对话式 AI 搜索
 
 | 平台 | 描述 | 链接 |
-|------|------|------|
+|----------|-------------|------|
 | **Perplexity AI** | AI 驱动的答案引擎，提供实时网络搜索 | [perplexity.ai](https://perplexity.ai) |
 | **ChatGPT** | OpenAI 的对话式 AI，支持网络搜索 | [chat.openai.com](https://chat.openai.com) |
 | **Claude** | Anthropic 的 AI 助手 | [claude.ai](https://claude.ai) |
 | **Gemini** | Google 的多模态 AI | [gemini.google.com](https://gemini.google.com) |
 | **Copilot** | 微软的 AI 助手 | [copilot.microsoft.com](https://copilot.microsoft.com) |
-| **Kimi** | 月之暗面的 AI 助手，支持超长上下文 | [kimi.moonshot.cn](https://kimi.moonshot.cn) |
-| **豆包** | 字节跳动的 AI 助手 | [doubao.com](https://www.doubao.com) |
-| **文心一言** | 百度的 AI 助手 | [yiyan.baidu.com](https://yiyan.baidu.com) |
-| **通义千问** | 阿里巴巴的 AI 助手 | [tongyi.aliyun.com](https://tongyi.aliyun.com) |
+| **Kimi** | 月之暗面的 AI 助手，支持超长上下文 [4] | [kimi.moonshot.cn](https://kimi.moonshot.cn) |
+| **豆包** | 字节跳动的 AI 助手 [4] | [doubao.com](https://www.doubao.com) |
+| **文心一言** | 百度的 AI 助手 [4] | [yiyan.baidu.com](https://yiyan.baidu.com) |
+| **通义千问** | 阿里巴巴的 AI 助手 [4] | [tongyi.aliyun.com](https://tongyi.aliyun.com) |
+| **DeepSeek AI** | DeepSeek 的 AI 助手，以强大的研究能力著称 [5] | [deepseek.com](https://www.deepseek.com) |
 
 ### AI 增强搜索
 
 | 平台 | 描述 | 链接 |
-|------|------|------|
+|----------|-------------|------|
 | **Google AI Overviews** | Google 搜索中的 AI 生成摘要 | [google.com](https://google.com) |
 | **Bing Chat** | 集成 GPT-4 的 Bing 搜索 | [bing.com](https://bing.com) |
 | **You.com** | AI 优先的搜索引擎 | [you.com](https://you.com) |
 | **Kagi** | 付费无广告搜索引擎，支持 AI 摘要 | [kagi.com](https://kagi.com) |
 | **Brave Search** | 隐私优先的搜索引擎，带 AI 功能 | [search.brave.com](https://search.brave.com) |
-| **秘塔 AI 搜索** | 国产 AI 搜索引擎 | [metaso.cn](https://metaso.cn) |
-| **天工 AI 搜索** | 昆仑万维的 AI 搜索 | [tiangong.cn](https://www.tiangong.cn) |
+| **秘塔 AI 搜索** | 国产 AI 搜索引擎 [4] | [metaso.cn](https://metaso.cn) |
+| **天工 AI 搜索** | 昆仑万维的 AI 搜索 [4] | [tiangong.cn](https://www.tiangong.cn) |
 
 ### 专业领域 AI 搜索
 
 | 平台 | 领域 | 链接 |
-|------|------|------|
+|----------|--------|------|
 | **Consensus** | 学术研究 | [consensus.app](https://consensus.app) |
 | **Elicit** | 科学文献 | [elicit.org](https://elicit.org) |
 | **Phind** | 开发者搜索 | [phind.com](https://phind.com) |
@@ -176,30 +184,29 @@
 ---
 
 ## 📊 GEO 策略与最佳实践
-
 ### 内容策略
 
 #### 📝 内容创作原则
 
-1. **权威性 (Authority)**
-   - 引用可靠来源和研究数据
-   - 包含原创研究和一手数据
-   - 展示专业资质和经验
+1.  **权威性 (Authority)**
+    - 引用可靠来源和研究数据
+    - 包含原创研究和一手数据
+    - 展示专业资质和经验
 
-2. **可引用性 (Quotability)**
-   - 创建清晰、简洁的定义和解释
-   - 使用易于提取的段落结构
-   - 提供统计数据和具体事实
+2.  **可引用性 (Quotability)**
+    - 创建清晰、简洁的定义和解释
+    - 使用易于提取的段落结构
+    - 提供统计数据和具体事实
 
-3. **全面性 (Comprehensiveness)**
-   - 深度覆盖主题的各个方面
-   - 回答用户可能的后续问题
-   - 提供实用的操作指南
+3.  **全面性 (Comprehensiveness)**
+    - 深度覆盖主题的各个方面
+    - 回答用户可能的后续问题
+    - 提供实用的操作指南
 
-4. **结构化 (Structure)**
-   - 使用清晰的标题层次
-   - 采用列表和表格组织信息
-   - 实施 Schema 标记
+4.  **结构化 (Structure)**
+    - 使用清晰的标题层次
+    - 采用列表和表格组织信息
+    - 实施 Schema 标记
 
 #### 🎯 内容类型优化
 
@@ -259,7 +266,6 @@ Allow: /
 ```
 
 #### 📋 推荐的 Schema 类型
-
 ```json
 {
   "@context": "https://schema.org",
@@ -278,6 +284,12 @@ Allow: /
   }
 }
 ```
+
+#### 💡 高级技术 GEO
+
+- **实体解析 (Entity Resolution)**: 专注于清晰地定义和链接内容中的实体，以提高 AI 的理解和引用准确性。这包括对每个实体进行一致的命名、消歧，并链接到权威来源。 [6]
+- **语义信任机制 (Semantic Trust Mechanisms)**: 实施与 AI 模型建立语义信任的策略，例如提供强有力的事实依据、引用可靠的研究、展示专业知识。这超越了传统的反向链接，专注于内容本身的内在可信度。 [7]
+- **RAG (检索增强生成) 适配 (RAG Adaptation)**: 优化内容，使其易于被 RAG 系统检索和增强。这包括创建模块化内容、使用清晰的标题和摘要，并确保关键信息易于 AI 模型提取和综合。 [8]
 
 ### 权威性建设
 
@@ -330,24 +342,23 @@ graph LR
 
 ### 成功案例
 
-1. **HubSpot** - 通过创建全面的营销指南，成为 AI 搜索中营销话题的首选来源
-2. **Investopedia** - 金融术语的权威定义使其成为 AI 金融回答的主要引用来源
-3. **WebMD** - 医疗健康内容的权威性使其在 AI 健康回答中频繁被引用
-4. **Stack Overflow** - 开发者问答内容成为 AI 编程助手的重要知识来源
-5. **知乎** - 高质量的中文问答内容成为中文 AI 助手的重要参考来源
+1.  **HubSpot** - 通过创建全面的营销指南，成为 AI 搜索中营销话题的首选来源
+2.  **Investopedia** - 金融术语的权威定义使其成为 AI 金融回答的主要引用来源
+3.  **WebMD** - 医疗健康内容的权威性使其在 AI 健康回答中频繁被引用
+4.  **Stack Overflow** - 开发者问答内容成为 AI 编程助手的重要知识来源
+5.  **知乎** - 高质量的中文问答内容成为中文 AI 助手的重要参考来源
 
 ### 行业分析
 
-- **医疗健康**: 高 E-E-A-T 要求，需要专业医疗背景
-- **金融理财**: 需要权威数据和专业分析
-- **技术开发**: 需要及时更新和准确的技术细节
-- **教育培训**: 需要全面、结构化的知识内容
-- **法律咨询**: 需要专业资质和准确的法规引用
+-   **医疗健康**: 高 E-E-A-T 要求，需要专业医疗背景
+-   **金融理财**: 需要权威数据和专业分析
+-   **技术开发**: 需要及时更新和准确的技术细节
+-   **教育培训**: 需要全面、结构化的知识内容
+-   **法律咨询**: 需要专业资质和准确的法规引用
 
 ---
 
 ## 👥 社区与论坛
-
 ### 国际社区
 
 - [r/SEO](https://reddit.com/r/seo) - Reddit SEO 社区
@@ -444,11 +455,11 @@ graph LR
 
 ### 贡献方式
 
-1. Fork 这个仓库
-2. 创建你的特性分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交你的更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 开启一个 Pull Request
+1.  Fork 这个仓库
+2.  创建你的特性分支 (`git checkout -b feature/AmazingFeature`)
+3.  提交你的更改 (`git commit -m 'Add some AmazingFeature'`)
+4.  推送到分支 (`git push origin feature/AmazingFeature`)
+5.  开启一个 Pull Request
 
 ### 贡献者
 
@@ -470,3 +481,13 @@ graph LR
   Made with ❤️ by the GEO Community
 </p>
 
+## 📚 参考文献
+
+[1] Conductor. (2026, January 21). *The Best Enterprise AEO Tools for AI Search 2025*. Retrieved from [https://www.conductor.com/academy/best-aeo-geo-tools-2025/](https://www.conductor.com/academy/best-aeo-geo-tools-2025/)
+[2] Contently. (2025, November 19). *What is GEO? Top 10 Generative Engine Optimization Tools for 2025*. Retrieved from [https://contently.com/2025/11/19/what-is-geo-top-10-generative-engine-optimization-tools-for-2025/](https://contently.com/2025/11/19/what-is-geo-top-10-generative-engine-optimization-tools-for-2025/)
+[3] Answer Socrates. (2025, December 14). *8 Best Generative Search Optimization (GEO) Tools for 2025*. Retrieved from [https://answersocrates.com/blog/best-generative-search-optimization-tools/](https://answersocrates.com/blog/best-generative-search-optimization-tools/)
+[4] Sohu. (2026, February 2). *2025最新GEO优化工具排名，别选错让品牌消失*. Retrieved from [https://www.sohu.com/a/982603889_122559248](https://www.sohu.com/a/982603889_122559248)
+[5] CSDN. (2025, October 10). *2025 AI使用指南*. Retrieved from [https://zhuanlan.zhihu.com/p/1960090620312948803](https://zhuanlan.zhihu.com/p/1960090620312948803)
+[6] Reddit. (2025, September 22). *5 Ways to Optimize for AI Search in 2025 (ChatGPT, Perplexity ...)*. Retrieved from [https://www.reddit.com/r/seogrowth/comments/1nniggd/5_ways_to_optimize_for_ai_search_in_2025_chatgpt/](https://www.reddit.com/r/seogrowth/comments/1nniggd/5_ways_to_optimize_for_ai_search_in_2025_chatgpt/)
+[7] Caizhongshe. (2026, January 20). *生成式引擎优化（GEO）：AI时代营销新范式，从“争排名”到“成...*. Retrieved from [https://m.caizhongshe.cn/news-2949717444835565565.html](https://m.caizhongshe.cn/news-2949717444835565565.html)
+[8] Arxiv. (2020, May 11). *Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks*. Retrieved from [https://arxiv.org/abs/2005.11401](https://arxiv.org/abs/2005.11401)
