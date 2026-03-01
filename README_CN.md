@@ -66,29 +66,36 @@
 
 ### 研究论文
 
-- [GEO: Generative Engine Optimization](https://arxiv.org/abs/2311.09735) - 普林斯顿大学等机构的开创性研究论文，首次系统性地提出 GEO 概念
+- [GEO: Generative Engine Optimization](https://arxiv.org/abs/2311.09735) - 普林斯顿大学等机构的开创性研究论文，首次系统性地提出 GEO 概念，展示高达 40% 的可见度提升
+- [Generative Engine Optimization: How to Dominate AI Search](https://arxiv.org/abs/2509.08919) - 2025 年综合研究，揭示 AI 搜索引擎对earned media（第三方权威来源）的系统性偏好 [9]
+- [AutoGEO: What Generative Search Engines Like and How to Optimize Web Content Cooperatively](https://openreview.net/forum?id=K8EinVWtUB) - ICLR 2026 论文，提出 AutoGEO 框架，自动学习生成式引擎偏好并提取优化规则 [10]
+- [E-GEO: A Testbed for Generative Engine Optimization in E-Commerce](https://arxiv.org/abs/2511.20867) - 首个电商领域 GEO 基准测试，包含 7000+ 产品查询，评估 15 种重写策略 [11]
 - [Large Language Models for Information Retrieval](https://arxiv.org/abs/2308.07107) - LLM 在信息检索中的应用研究
 - [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401) - RAG 技术论文，理解 AI 搜索引擎工作原理的基础
 
 ### 文章与指南
 
+- [Mastering Generative Engine Optimization in 2026: Full Guide](https://searchengineland.com/mastering-generative-engine-optimization-in-2026-full-guide-469142) - Search Engine Land 的 2026 年 GEO 全面指南，涵盖策略、衡量和实施 [12]
+- [Generative Engine Optimization (GEO): How to Win in AI Search](https://backlinko.com/generative-engine-optimization-geo) - Backlinko 数据驱动的 GEO 实操指南 [13]
+- [Generative Engine Optimization (GEO): A Marketer's Guide in 2026](https://www.webfx.com/blog/ai/generative-engine-optimization/) - WebFX 的营销人员 GEO 指南 [14]
+- [Complete Guide to Generative Engine Optimization (GEO) 2026](https://www.promptmonitor.io/blog/generative-engine-optimization) - Prompt Monitor 的 GEO 分步实施指南 [15]
+- [GEO（生成式引擎优化）：AI搜索时代的内容新规则](https://cloud.tencent.com/developer/article/2572056) - 腾讯云开发者社区的中文 GEO 指南 [29]
 - [What is Generative Engine Optimization (GEO)?](https://www.searchenginejournal.com/generative-engine-optimization-geo/) - Search Engine Journal 的 GEO 入门指南
 - [How to Optimize for AI Search Engines](https://www.semrush.com/blog/ai-seo/) - Semrush 的 AI SEO 优化指南
 - [The Rise of Answer Engines](https://moz.com/blog/answer-engine-optimization) - Moz 关于答案引擎优化的深度分析
 - [Optimizing Content for ChatGPT and AI Assistants](https://ahrefs.com/blog/ai-seo/) - Ahrefs 的 AI 内容优化策略
-- [Google AI Overviews: What You Need to Know](https://www.searchengineland.com/google-ai-overviews-guide) - Google AI 概述优化指南
+- [How to Optimize for Google AI Overviews 2026](https://becomingseo.com/insights/aeo-geo/optimize-for-google-ai-overviews/) - 2026 年 Google AI 概述优化完整指南 [16]
 - [E-E-A-T in the Age of AI](https://www.contentstrategy.com/eeat-ai-optimization) - AI 时代的 E-E-A-T 策略
 
 ### 视频教程
-- [GEO Explained: The Future of Search Optimization](https://www.youtube.com/watch?v=example1) - GEO 概念详解
-- [How to Get Your Brand Mentioned by ChatGPT](https://www.youtube.com/watch?v=example2) - 品牌 AI 可见度提升教程
-- [Perplexity SEO: Complete Guide](https://www.youtube.com/watch?v=example3) - Perplexity 优化完整指南
+- [Forget SEO Hacks — GEO Is About Credibility, Clarity, and Control](https://www.youtube.com/watch?v=-PFBgavuFrs) - 深度 GEO 策略，聚焦通过权威性构建 AI 可见度
+- [The GEO Playbook: Generative Engine Optimization Guide](https://rosssimmonds.com/resources/geo-playbook/) - Ross Simmonds 的免费 10 章 B2B SaaS GEO 视频指南
 
 ### 播客
 
-- [The AI SEO Podcast](https://example.com/ai-seo-podcast) - 专注于 AI 搜索优化的播客
-- [Search Off the Record](https://www.google.com/podcasts/search-off-the-record) - Google 官方搜索播客
-- [Marketing Against the Grain](https://www.hubspot.com/marketing-against-the-grain) - HubSpot 营销播客，经常讨论 AI 营销话题
+- [Search Off the Record](https://www.google.com/podcasts/search-off-the-record) - Google 官方搜索播客，涵盖 AI 搜索演进
+- [Marketing Against the Grain](https://www.hubspot.com/marketing-against-the-grain) - HubSpot 营销播客，经常讨论 AI 营销和 GEO 话题
+- [SEOFOMO Weekly](https://seofomo.co/) - Aleyda Solis 的每周 SEO 与 AI 搜索新闻播客
 
 ---
 
@@ -98,16 +105,21 @@
 
 | 工具 | 描述 | 链接 |
 |------|------|------|
-| **Conductor** | 端到端企业级 AEO 平台，结合 AEO/GEO 和传统 SEO。 [1] | [conductor.com](https://www.conductor.com) |
-| **Contently** | 集内容创作、优化和 AI 可见性追踪于一体的系统。 [2] | [contently.com](https://contently.com) |
-| **Profound** | 监测品牌在 AI 搜索引擎中的可见度 | [profound.ai](https://profound.ai) |
+| **Geol.ai** | 首个综合性 GEO 平台，50+ 因素质量评分引擎，支持 WordPress、Shopify、Wix 等 CMS 集成 [17] | [geol.ai](https://geol.ai) |
+| **OptimizeGEO** | AI 搜索营销智能平台，追踪可见度评分、声量份额和情感分析（ISO 27001、SOC 2 合规）[18] | [optimizegeo.ai](https://www.optimizegeo.ai) |
+| **Conductor** | 端到端企业级 AEO 平台，结合 AEO/GEO 和传统 SEO [1] | [conductor.com](https://www.conductor.com) |
+| **Contently** | 集内容创作、优化和 AI 可见性追踪于一体的系统 [2] | [contently.com](https://contently.com) |
+| **Profound** | 深度地理分析与多语言支持的 AI 品牌可见度监测 | [profound.ai](https://profound.ai) |
 | **Otterly.AI** | AI 搜索引擎排名追踪工具 | [otterly.ai](https://otterly.ai) |
 | **Peec AI** | 分析 AI 搜索中的品牌提及 | [peec.ai](https://peec.ai) |
+| **Scrunch AI** | 实时 AI 可见度监测，支持 AI 幻觉检测 [19] | [scrunch.ai](https://scrunch.ai) |
+| **Goodie AI** | 专业 GEO 平台，支持 ChatGPT、Gemini、Perplexity 多平台监测 [19] | [goodie.ai](https://goodie.ai) |
+| **Ezeo** | AI 驱动的 SEO、GEO 和 AEO 平台，追踪 ChatGPT、Claude、Perplexity、Gemini、Grok 和 Reddit [20] | [ezeo.ai](https://ezeo.ai) |
+| **Prompt Monitor** | 基于 Prompt 级别分析的 AI 搜索性能追踪和优化 [15] | [promptmonitor.io](https://www.promptmonitor.io) |
 | **Knowatoa** | AI 搜索可见度分析平台 | [knowatoa.com](https://knowatoa.com) |
-| **AISearchRank** | AI 搜索排名监测 | [aisearchrank.com](https://aisearchrank.com) |
 | **SEOTalos** | 最适合 AI 模式和 AIO 追踪 [3] | [seotalos.com](https://seotalos.com) |
 | **WorkDuo.ai** | 最适合 AI 搜索优化新手团队快速实施 [3] | [workduo.ai](https://workduo.ai) |
-| **Quattr** | 专注于执行的 SEO 平台，连接传统搜索性能与新兴 AI 可见性信号。 [1] | [quattr.com](https://quattr.com) |
+| **Quattr** | 专注于执行的 SEO 平台，连接传统搜索性能与新兴 AI 可见性信号 [1] | [quattr.com](https://quattr.com) |
 
 ### 内容优化工具
 
@@ -116,7 +128,7 @@
 | **Clearscope** | AI 驱动的内容优化平台 | [clearscope.io](https://clearscope.io) |
 | **Surfer SEO** | 内容优化和 SERP 分析 | [surferseo.com](https://surferseo.com) |
 | **MarketMuse** | AI 内容策略平台 | [marketmuse.com](https://marketmuse.com) |
-| **Frase** | AI 内容创作和优化 | [frase.io](https://frase.io) |
+| **Frase** | 智能 SEO 和 GEO 平台，集 AI 研究、内容创作和实时 GEO 评分于一体，支持 ChatGPT、Perplexity、Claude、Gemini [21] | [frase.io](https://frase.io) |
 | **NeuronWriter** | 基于 NLP 的内容优化 | [neuronwriter.com](https://neuronwriter.com) |
 | **Jasper** | AI 写作助手 | [jasper.ai](https://jasper.ai) |
 | **Writesonic** | 具有 AEO 功能的 AI 内容生成平台。 [1] | [writesonic.com](https://writesonic.com) |
@@ -149,16 +161,17 @@
 
 | 平台 | 描述 | 链接 |
 |----------|-------------|------|
-| **Perplexity AI** | AI 驱动的答案引擎，提供实时网络搜索 | [perplexity.ai](https://perplexity.ai) |
-| **ChatGPT** | OpenAI 的对话式 AI，支持网络搜索 | [chat.openai.com](https://chat.openai.com) |
-| **Claude** | Anthropic 的 AI 助手 | [claude.ai](https://claude.ai) |
-| **Gemini** | Google 的多模态 AI | [gemini.google.com](https://gemini.google.com) |
-| **Copilot** | 微软的 AI 助手 | [copilot.microsoft.com](https://copilot.microsoft.com) |
+| **ChatGPT Search** | OpenAI 的对话式 AI，集成网络搜索功能，2025 年 2 月起向所有用户开放 [22] | [chatgpt.com](https://chatgpt.com) |
+| **Perplexity AI** | AI 驱动的答案引擎，提供实时网络搜索和来源引用 | [perplexity.ai](https://perplexity.ai) |
+| **Grok** | xAI 的 AI 助手，搭载 DeepSearch 功能，支持跨网络和 X（Twitter）的实时多轮推理 [23] | [x.ai/grok](https://x.ai/grok) |
+| **Claude** | Anthropic 的 AI 助手，支持网络搜索 | [claude.ai](https://claude.ai) |
+| **Gemini** | Google 的多模态 AI，深度整合 Google 搜索 | [gemini.google.com](https://gemini.google.com) |
+| **Copilot** | 微软的 AI 助手，基于 GPT-4 集成 Bing 搜索 | [copilot.microsoft.com](https://copilot.microsoft.com) |
+| **DeepSeek AI** | DeepSeek 的 AI 助手，以强大的研究和推理能力著称 [5] | [deepseek.com](https://www.deepseek.com) |
 | **Kimi** | 月之暗面的 AI 助手，支持超长上下文 [4] | [kimi.moonshot.cn](https://kimi.moonshot.cn) |
 | **豆包** | 字节跳动的 AI 助手 [4] | [doubao.com](https://www.doubao.com) |
 | **文心一言** | 百度的 AI 助手 [4] | [yiyan.baidu.com](https://yiyan.baidu.com) |
 | **通义千问** | 阿里巴巴的 AI 助手 [4] | [tongyi.aliyun.com](https://tongyi.aliyun.com) |
-| **DeepSeek AI** | DeepSeek 的 AI 助手，以强大的研究能力著称 [5] | [deepseek.com](https://www.deepseek.com) |
 
 ### AI 增强搜索
 
@@ -236,33 +249,67 @@
 - [ ] 使用语义化 HTML
 - [ ] 创建 XML 站点地图
 - [ ] 配置 robots.txt 允许 AI 爬虫
+- [ ] 创建 llms.txt 提供结构化的 AI 可读网站信息
 - [ ] 实施 HTTPS
 - [ ] 优化图片 alt 文本
+- [ ] 确保服务端渲染以提高 AI 爬虫可访问性
 
 #### 🤖 AI 爬虫配置
 
 ```robots.txt
-# 允许主要 AI 爬虫
+# 允许主要 AI 搜索爬虫（影响实时 AI 响应）
 User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
 Allow: /
 
 User-agent: ChatGPT-User
 Allow: /
 
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# 允许 AI 训练爬虫（影响未来模型训练）
 User-agent: CCBot
 Allow: /
 
 User-agent: anthropic-ai
 Allow: /
 
-User-agent: Claude-Web
-Allow: /
-
-User-agent: PerplexityBot
-Allow: /
-
 User-agent: Bytespider
 Allow: /
+```
+
+#### 📄 llms.txt 配置
+
+[llms.txt](https://llmstxt.org/) 是一个新兴标准（类似 robots.txt），为 AI 模型提供结构化的、机器可读的网站信息。正确实施 llms.txt 的网站在 AI 响应中的品牌描述准确度提高约 24%。 [24]
+
+```markdown
+# 你的品牌名称
+
+> 1-3 句话的业务摘要。
+
+## 联系方式
+- 网站: https://example.com
+- 邮箱: hello@example.com
+
+## 服务
+- [服务 1](https://example.com/service-1): 简要描述
+- [服务 2](https://example.com/service-2): 简要描述
+
+## 关键信息
+- [关于我们](https://example.com/about)
+- [文档](https://example.com/docs)
 ```
 
 #### 📋 推荐的 Schema 类型
@@ -348,12 +395,25 @@ graph LR
 4.  **Stack Overflow** - 开发者问答内容成为 AI 编程助手的重要知识来源
 5.  **知乎** - 高质量的中文问答内容成为中文 AI 助手的重要参考来源
 
+### GEO 效果数据（2025-2026）[25]
+
+| 案例 | 效果 |
+|------|------|
+| **B2B SaaS 公司** | AI 可见度提升 340%，合格线索增长 230% |
+| **电商品牌** | 可见度提升 450%，AI 购物推荐率达 85% |
+| **知识平台** | 可见度提升 520%，跨 AI 平台提及率达 92% |
+| **内容出版商** | 可见度提升 380%，占领 60% 的垂直 AI 流量 |
+| **LS Building Products** | 自然流量增长 67%，Google AI Overviews 提及量增长 540% |
+
+B2B 品牌报告显示，来自 AI 搜索平台的转化率比传统搜索高 **6-27 倍**。Backlinko 2025 年分析显示，来自 LLM 的网站流量同比增长 **800%**（2024 Q2 → 2025 Q2）。[25]
+
 ### 行业分析
 
 -   **医疗健康**: 高 E-E-A-T 要求，需要专业医疗背景
 -   **金融理财**: 需要权威数据和专业分析
 -   **技术开发**: 需要及时更新和准确的技术细节
 -   **教育培训**: 需要全面、结构化的知识内容
+-   **电子商务**: 针对 AI 购物推荐的产品内容优化 [11]
 -   **法律咨询**: 需要专业资质和准确的法规引用
 
 ---
@@ -391,12 +451,19 @@ graph LR
 
 - [Google 搜索中心](https://developers.google.com/search?hl=zh-cn) - Google 官方中文文档
 - [百度搜索资源平台](https://ziyuan.baidu.com/) - 百度官方站长平台
+- [腾讯云开发者社区 GEO](https://cloud.tencent.com/developer/article/2572056) - 腾讯云 GEO 专题及中文 AI 搜索优化洞察 [29]
 - [36氪](https://36kr.com/) - 科技创业媒体
 - [少数派](https://sspai.com/) - 数字生活指南
 
+### GEO 专题资源
+
+- [Generative Engine Optimization 2026: Latest Trends & AI Search Impact](https://geneo.app/blog/generative-engine-optimization-2026-trends/) - GENeo 的 GEO 趋势报告
+- [Next AI SEO](https://nextaiseo.com/) - 专注于 AI 搜索可见度策略和 GEO 洞察
+- [AEO Press](https://www.aeo.press/) - AI 引擎优化新闻和分析
+
 ### 订阅通讯
 
-- [SEOFOMO](https://seofomo.co/) - 每周 SEO 新闻
+- [SEOFOMO](https://seofomo.co/) - 每周 SEO 与 AI 搜索新闻
 - [The SEO MBA](https://seomba.substack.com/) - SEO 战略思考
 - [Women in Tech SEO](https://womenintechseo.com/newsletter/) - SEO 行业洞察
 
@@ -406,8 +473,10 @@ graph LR
 
 ### 英文书籍
 
+- **The GEO Playbook: Mastering Generative Engine Optimization for AI-Powered Search** - Marcus Thorne（含 9 种经过验证的 GEO 方法、30 天转型计划、平台专属策略）[26]
+- **How to Win GEO: The Definitive Book on Generative Engine Optimization** - Quanlai Li, Sergii Molchanov（首部 GEO 专著）[27]
+- **New SEO 2026: AI Search Playbook** - Martin Novak（面向 AI 答案引擎的优化策略）[28]
 - **The Art of SEO** - Eric Enge, Stephan Spencer, Jessie Stricchiola
-- **SEO 2024** - Adam Clarke
 - **Product-Led SEO** - Eli Schwartz
 - **The Content Strategy Toolkit** - Meghan Casey
 
@@ -437,8 +506,10 @@ graph LR
 - [ ] 页面加载速度是否优化？
 - [ ] 移动端体验是否良好？
 - [ ] robots.txt 是否允许 AI 爬虫？
+- [ ] llms.txt 是否配置了准确的网站信息？
 - [ ] 结构化数据是否正确实施？
 - [ ] 网站是否使用 HTTPS？
+- [ ] 是否启用服务端渲染以便 AI 爬虫访问？
 
 ### 发布后监测
 
@@ -491,3 +562,24 @@ graph LR
 [6] Reddit. (2025, September 22). *5 Ways to Optimize for AI Search in 2025 (ChatGPT, Perplexity ...)*. Retrieved from [https://www.reddit.com/r/seogrowth/comments/1nniggd/5_ways_to_optimize_for_ai_search_in_2025_chatgpt/](https://www.reddit.com/r/seogrowth/comments/1nniggd/5_ways_to_optimize_for_ai_search_in_2025_chatgpt/)
 [7] Caizhongshe. (2026, January 20). *生成式引擎优化（GEO）：AI时代营销新范式，从“争排名”到“成...*. Retrieved from [https://m.caizhongshe.cn/news-2949717444835565565.html](https://m.caizhongshe.cn/news-2949717444835565565.html)
 [8] Arxiv. (2020, May 11). *Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks*. Retrieved from [https://arxiv.org/abs/2005.11401](https://arxiv.org/abs/2005.11401)
+[9] Chen, Wang, Chen, Koudas. (2025, September). *Generative Engine Optimization: How to Dominate AI Search*. Retrieved from [https://arxiv.org/abs/2509.08919](https://arxiv.org/abs/2509.08919)
+[10] Wu, Zhong, Kim, Xiong. (2026). *What Generative Search Engines Like and How to Optimize Web Content Cooperatively*. ICLR 2026. Retrieved from [https://openreview.net/forum?id=K8EinVWtUB](https://openreview.net/forum?id=K8EinVWtUB)
+[11] Bagga et al. (2025, November). *E-GEO: A Testbed for Generative Engine Optimization in E-Commerce*. Retrieved from [https://arxiv.org/abs/2511.20867](https://arxiv.org/abs/2511.20867)
+[12] Search Engine Land. (2026). *Mastering Generative Engine Optimization in 2026: Full Guide*. Retrieved from [https://searchengineland.com/mastering-generative-engine-optimization-in-2026-full-guide-469142](https://searchengineland.com/mastering-generative-engine-optimization-in-2026-full-guide-469142)
+[13] Backlinko. (2025). *Generative Engine Optimization (GEO): How to Win in AI Search*. Retrieved from [https://backlinko.com/generative-engine-optimization-geo](https://backlinko.com/generative-engine-optimization-geo)
+[14] WebFX. (2026). *Generative Engine Optimization (GEO): A Marketer's Guide in 2026*. Retrieved from [https://www.webfx.com/blog/ai/generative-engine-optimization/](https://www.webfx.com/blog/ai/generative-engine-optimization/)
+[15] Prompt Monitor. (2026). *Complete Guide to Generative Engine Optimization (GEO) 2026*. Retrieved from [https://www.promptmonitor.io/blog/generative-engine-optimization](https://www.promptmonitor.io/blog/generative-engine-optimization)
+[16] Becoming SEO. (2026). *How to Optimize for Google AI Overviews 2026*. Retrieved from [https://becomingseo.com/insights/aeo-geo/optimize-for-google-ai-overviews/](https://becomingseo.com/insights/aeo-geo/optimize-for-google-ai-overviews/)
+[17] Geol.ai. (2026). *AI Search Engine Optimization Platform*. Retrieved from [https://geol.ai/](https://geol.ai/)
+[18] OptimizeGEO. (2026). *AI Search Optimization Platform*. Retrieved from [https://www.optimizegeo.ai/](https://www.optimizegeo.ai/)
+[19] RuciAI. (2025). *9 款生成式引擎优化（GEO）工具*. Retrieved from [https://art.ruciai.com/blog/best-generative-engine-optimization-tools](https://art.ruciai.com/blog/best-generative-engine-optimization-tools)
+[20] Ezeo. (2026). *AI-Powered SEO, GEO & AEO Optimization Platform*. Retrieved from [https://ezeo.ai/](https://ezeo.ai/)
+[21] Frase. (2026). *The Agentic SEO & GEO Platform*. Retrieved from [https://frase.io/](https://frase.io/)
+[22] OpenAI. (2024, October 31). *Introducing ChatGPT Search*. Retrieved from [https://openai.com/index/introducing-chatgpt-search/](https://openai.com/index/introducing-chatgpt-search/)
+[23] xAI. (2025, February). *Grok 3 Beta — The Age of Reasoning Agents*. Retrieved from [https://x.ai/news/grok-3](https://x.ai/news/grok-3)
+[24] llmstxt.org. (2025). *The /llms.txt file*. Retrieved from [https://llmstxt.org/](https://llmstxt.org/)
+[25] Maximus Labs. (2025). *GEO Success Stories: Case Studies of Leading Brands and Startups*. Retrieved from [https://www.maximuslabs.ai/generative-engine-optimization/geo-case-studies-success-stories](https://www.maximuslabs.ai/generative-engine-optimization/geo-case-studies-success-stories)
+[26] Thorne, Marcus. (2025). *The GEO Playbook: Mastering Generative Engine Optimization for AI-Powered Search*. Barnes & Noble.
+[27] Li, Quanlai & Molchanov, Sergii. (2025). *How to Win GEO: The Definitive Book on Generative Engine Optimization*. Retrieved from [https://www.enception.ai/blog/how-to-win-geo-book-prerelease](https://www.enception.ai/blog/how-to-win-geo-book-prerelease)
+[28] Novak, Martin. (2026). *New SEO 2026: AI Search Playbook*. Google Books.
+[29] Tencent Cloud. (2025). *GEO（生成式引擎优化）：AI搜索时代的内容新规则*. Retrieved from [https://cloud.tencent.com/developer/article/2572056](https://cloud.tencent.com/developer/article/2572056)
