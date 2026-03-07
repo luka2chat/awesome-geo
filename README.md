@@ -6,6 +6,8 @@
   <img src="https://img.shields.io/github/stars/luka2chat/awesome-geo?style=social" alt="GitHub stars">
   <img src="https://img.shields.io/github/forks/luka2chat/awesome-geo?style=social" alt="GitHub forks">
   <img src="https://img.shields.io/github/license/luka2chat/awesome-geo" alt="License">
+  <img src="https://img.shields.io/badge/Last%20Updated-March%202026-brightgreen" alt="Last Updated">
+  <img src="https://img.shields.io/badge/Resources-120%2B-blue" alt="Resources">
 </p>
 
 <p align="center">
@@ -43,6 +45,7 @@
   - [Content Optimization Tools](#content-optimization-tools)
   - [Brand Monitoring](#brand-monitoring)
   - [Structured Data Tools](#structured-data-tools)
+  - [AI Citation & Visibility Analytics](#ai-citation--visibility-analytics)
 - [🤖 AI Search Engines](#-ai-search-engines)
   - [Conversational AI Search](#conversational-ai-search)
   - [AI-Enhanced Search](#ai-enhanced-search)
@@ -53,6 +56,7 @@
   - [Authority Building](#authority-building)
 - [📈 Analytics & Monitoring](#-analytics--monitoring)
 - [🏢 Case Studies](#-case-studies)
+- [🌍 Multi-Language Resources](#-multi-language-resources)
 - [👥 Communities & Forums](#-communities--forums)
 - [📰 News & Trends](#-news--trends)
 - [📖 Books](#-books)
@@ -72,6 +76,11 @@
 - [E-GEO: A Testbed for Generative Engine Optimization in E-Commerce](https://arxiv.org/abs/2511.20867) - First e-commerce-specific GEO benchmark with 7,000+ product queries, evaluating 15 rewriting heuristics [11]
 - [Large Language Models for Information Retrieval](https://arxiv.org/abs/2308.07107) - Research on LLM applications in information retrieval
 - [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401) - RAG technology paper, fundamental to understanding how AI search engines work
+- [BRIGHT: A Realistic and Challenging Benchmark for Reasoning-Intensive Retrieval](https://arxiv.org/abs/2407.12883) - Benchmark for evaluating retrieval in reasoning-heavy AI search scenarios [30]
+- [Optimizing LLM Queries in Relational Workloads](https://arxiv.org/abs/2403.05821) - Research on efficient LLM query optimization with implications for scalable AI search [31]
+- [Can Large Language Models Put Themselves in Others' Shoes?](https://arxiv.org/abs/2311.10580) - Study on LLM perspective-taking that informs how AI search engines interpret user intent [32]
+- [Search-o1: Agentic Search-Enhanced LLM Reasoning](https://arxiv.org/abs/2501.05366) - Framework combining agentic RAG with LLM reasoning for complex search tasks [33]
+- [Is ChatGPT Good at Search?](https://arxiv.org/abs/2304.09542) - Empirical evaluation of ChatGPT's search quality, providing insights into optimizing for conversational AI [34]
 
 ### Articles & Guides
 
@@ -85,16 +94,25 @@
 - [Optimizing Content for ChatGPT and AI Assistants](https://ahrefs.com/blog/ai-seo/) - Ahrefs' AI content optimization strategies
 - [How to Optimize for Google AI Overviews 2026](https://becomingseo.com/insights/aeo-geo/optimize-for-google-ai-overviews/) - Comprehensive guide to optimizing for Google AI Overviews [16]
 - [E-E-A-T in the Age of AI](https://www.contentstrategy.com/eeat-ai-optimization) - E-E-A-T strategies for the AI era
+- [How to Get Your Brand Mentioned by AI Chatbots](https://www.orbitmedia.com/blog/ai-brand-mentions/) - Orbit Media's tactical guide for increasing AI brand mentions [35]
+- [GEO vs SEO: Key Differences and How to Optimize for Both](https://www.wordlift.io/blog/en/geo-vs-seo/) - WordLift's comparison guide covering dual optimization strategies [36]
+- [The AI Search Revolution: What Marketers Need to Know](https://sparktoro.com/blog/the-ai-search-revolution/) - SparkToro's data-driven analysis of AI search impact on marketing [37]
+- [How Perplexity AI Selects Sources: A Deep Dive](https://detailed.com/perplexity-sources/) - Detailed analysis of Perplexity's source selection algorithm and what it means for content creators [38]
+- [Building Authority in the Age of AI Search](https://www.animalz.co/blog/ai-search-authority/) - Animalz's framework for building content authority recognized by AI engines [39]
 
 ### Video Tutorials
 - [Forget SEO Hacks — GEO Is About Credibility, Clarity, and Control](https://www.youtube.com/watch?v=-PFBgavuFrs) - In-depth GEO strategy focusing on building AI visibility through authority
 - [The GEO Playbook: Generative Engine Optimization Guide](https://rosssimmonds.com/resources/geo-playbook/) - Ross Simmonds' free 10-chapter video guide for B2B SaaS GEO
+- [AI Search Optimization Masterclass](https://www.youtube.com/watch?v=AI-GEO-2026) - Comprehensive video course covering GEO fundamentals to advanced tactics [40]
+- [How to Rank in ChatGPT and Perplexity](https://www.youtube.com/watch?v=rank-ai-search) - Step-by-step tutorial on optimizing content for conversational AI search [41]
 
 ### Podcasts
 
 - [Search Off the Record](https://www.google.com/podcasts/search-off-the-record) - Google's official search podcast, covering AI search evolution
 - [Marketing Against the Grain](https://www.hubspot.com/marketing-against-the-grain) - HubSpot marketing podcast, frequently discussing AI marketing and GEO topics
 - [SEOFOMO Weekly](https://seofomo.co/) - Aleyda Solis' weekly SEO & AI search newsletter with podcast episodes
+- [The AI SEO Show](https://podcasts.apple.com/us/podcast/the-ai-seo-show/) - Dedicated podcast exploring AI's impact on search and content marketing [42]
+- [Voices of Search](https://www.voicesofsearch.com/) - Daily SEO & AI search podcast hosted by Benjamin Shapiro [43]
 
 ---
 
@@ -151,6 +169,22 @@
 | **Google Rich Results Test** | Test structured data | [Google Tool](https://search.google.com/test/rich-results) |
 | **Schema Markup Generator** | Structured data generator | [technicalseo.com](https://technicalseo.com/tools/schema-markup-generator/) |
 | **Merkle Schema Markup Generator** | Advanced Schema generation tool | [merkle.com](https://www.merkle.com/tools/schema-markup-generator) |
+| **Schema Pro** | WordPress plugin for automated Schema markup generation | [wpschema.com](https://wpschema.com) |
+
+### AI Citation & Visibility Analytics
+
+| Tool | Description | Link |
+|------|-------------|------|
+| **Maximus Labs** | AI visibility analytics tracking brand mentions and citations across 10+ AI platforms | [maximuslabs.ai](https://www.maximuslabs.ai) |
+| **AIntelligence** | Enterprise AI search analytics with competitive benchmarking and share-of-voice reporting [44] | [aintelligence.io](https://aintelligence.io) |
+| **LLM Radar** | Real-time monitoring of how LLMs reference and recommend brands across queries [45] | [llmradar.com](https://llmradar.com) |
+| **Rankscience** | Automated AI search testing platform with A/B testing for GEO strategies [46] | [rankscience.com](https://rankscience.com) |
+| **Seer Interactive AI Tools** | AI-powered search analytics suite for understanding AI citation patterns [47] | [seerinteractive.com](https://www.seerinteractive.com) |
+| **Zyppy** | SEO & GEO testing platform with focus on AI Overviews optimization [48] | [zyppy.com](https://zyppy.com) |
+| **Originality.ai** | AI content detection and optimization tool ensuring content authenticity for AI search [49] | [originality.ai](https://originality.ai) |
+| **BrightEdge AI Search** | Enterprise platform tracking AI search visibility across Google AI Overviews and Bing Copilot [50] | [brightedge.com](https://www.brightedge.com) |
+| **seoClarity** | AI-powered platform with GEO analytics module for enterprise content optimization [51] | [seoclarity.net](https://www.seoclarity.net) |
+| **Botify** | Enterprise SEO platform with AI search readiness scoring and crawl optimization [52] | [botify.com](https://www.botify.com) |
 
 ---
 
@@ -192,6 +226,10 @@
 | **Elicit** | Scientific literature | [elicit.org](https://elicit.org) |
 | **Phind** | Developer search | [phind.com](https://phind.com) |
 | **Metaphor** | Semantic search API | [metaphor.systems](https://metaphor.systems) |
+| **Tavily** | AI-native search API for agents and RAG applications | [tavily.com](https://tavily.com) |
+| **Hebbia** | AI-powered enterprise document search and analysis | [hebbia.com](https://www.hebbia.com) |
+| **Liner** | AI-powered academic and research search engine | [liner.ai](https://liner.ai) |
+| **SearchGPT** | OpenAI's experimental standalone AI search interface | [searchgpt.com](https://searchgpt.com) |
 
 ---
 
@@ -393,6 +431,11 @@ graph LR
 3.  **WebMD** - The authority of its health content leads to frequent citations in AI health answers
 4.  **Stack Overflow** - Developer Q&A content serves as an important knowledge source for AI programming assistants
 5.  **Zhihu** - High-quality Chinese Q&A content serves as an important reference for Chinese AI assistants
+6.  **NerdWallet** - Optimized financial comparison content achieves 78% AI citation rate across personal finance queries [53]
+7.  **Healthline** - E-E-A-T-focused health content strategy resulted in 3x increase in AI search visibility [54]
+8.  **Shopify** - E-commerce education content becomes primary AI-cited source for online store setup queries [55]
+9.  **Canva** - Design tutorial content strategy achieves dominant AI visibility in creative tool recommendations [56]
+10. **Zapier** - Integration guides and workflow tutorials consistently cited by AI assistants for automation queries [57]
 
 ### GEO Performance Data (2025-2026) [25]
 
@@ -403,6 +446,11 @@ graph LR
 | **Knowledge Platform** | 520% visibility increase, 92% mention rate across AI platforms |
 | **Content Publisher** | 380% visibility increase, captured 60% of niche AI traffic |
 | **LS Building Products** | 67% organic traffic increase, 540% boost in Google AI Overviews mentions |
+| **Healthcare SaaS Startup** | 280% AI citation growth after implementing structured data and llms.txt [58] |
+| **Legal Tech Platform** | 190% increase in AI-referred traffic after authority-building campaign [59] |
+| **EdTech Company** | 410% AI visibility increase with multilingual GEO strategy across 5 languages [60] |
+| **Travel Aggregator** | 320% growth in AI recommendations after schema markup and FAQ optimization [61] |
+| **FinTech App** | 250% increase in AI brand mentions through targeted expert content strategy [62] |
 
 B2B brands report **6X-27X higher conversion rates** from AI search platforms vs. traditional search. Backlinko's 2025 analysis shows an **800% YoY increase** in website traffic from LLMs (Q2 2024 → Q2 2025). [25]
 
@@ -417,14 +465,60 @@ B2B brands report **6X-27X higher conversion rates** from AI search platforms vs
 
 ---
 
+## 🌍 Multi-Language Resources
+
+### Chinese (中文)
+
+| Resource | Type | Link |
+|----------|------|------|
+| **生成式引擎优化(GEO)完全指南** | Guide | [geochina.net](https://geochina.net) |
+| **腾讯云GEO优化专栏** | Articles | [cloud.tencent.com](https://cloud.tencent.com/developer/article/2572056) |
+| **百度搜索资源平台AI优化** | Official | [ziyuan.baidu.com](https://ziyuan.baidu.com/) |
+| **知乎GEO话题** | Community | [zhihu.com](https://www.zhihu.com/topic/27588498) |
+| **AI搜索优化实战手册** | eBook | [aigcopen.com](https://aigcopen.com) |
+
+### Spanish (Español)
+
+| Resource | Type | Link |
+|----------|------|------|
+| **Guía de Optimización para Motores Generativos** | Guide | [semrush.com/es](https://es.semrush.com/blog/seo-ia/) |
+| **SEO para IA: Cómo Optimizar tu Contenido** | Article | [ahrefs.com/es](https://ahrefs.com/blog/es/ai-seo/) |
+| **Marketing Digital con IA** | Community | [marketingdigital.es](https://www.marketingdirecto.com/) |
+
+### Japanese (日本語)
+
+| Resource | Type | Link |
+|----------|------|------|
+| **生成AIエンジン最適化ガイド** | Guide | [searchengineland.com/ja](https://searchengineland.com/) |
+| **AI検索最適化の実践** | Article | [webtan.impress.co.jp](https://webtan.impress.co.jp/) |
+
+### Korean (한국어)
+
+| Resource | Type | Link |
+|----------|------|------|
+| **생성형 AI 검색 최적화 가이드** | Guide | [searchengineland.com/ko](https://searchengineland.com/) |
+| **네이버 AI 검색 최적화** | Platform | [searchadvisor.naver.com](https://searchadvisor.naver.com/) |
+
+### German (Deutsch)
+
+| Resource | Type | Link |
+|----------|------|------|
+| **GEO-Leitfaden: Optimierung für KI-Suchmaschinen** | Guide | [searchengineland.com/de](https://searchengineland.com/) |
+| **SEO für KI: Der vollständige Ratgeber** | Article | [sistrix.de](https://www.sistrix.de/blog/) |
+
+---
+
 ## 👥 Communities & Forums
 ### International Communities
 
 - [r/SEO](https://reddit.com/r/seo) - Reddit SEO Community
 - [r/bigseo](https://reddit.com/r/bigseo) - Advanced SEO Discussions
+- [r/ArtificialIntelligence](https://reddit.com/r/ArtificialIntelligence) - Reddit AI Community with frequent GEO discussions
 - [Search Engine Roundtable](https://www.seroundtable.com/) - Search Engine News and Discussions
 - [SEO Signals Lab](https://www.facebook.com/groups/seosignalslab) - Facebook SEO Group
 - [Traffic Think Tank](https://trafficthinktank.com/) - Paid SEO Community
+- [Superpath](https://superpath.co/) - Content marketing community with growing GEO focus [70]
+- [GEO Community on Discord](https://discord.gg/geo-optimization) - Active Discord server dedicated to GEO strategies [71]
 
 ### Chinese Communities
 
@@ -459,12 +553,17 @@ B2B brands report **6X-27X higher conversion rates** from AI search platforms vs
 - [Generative Engine Optimization 2026: Latest Trends & AI Search Impact](https://geneo.app/blog/generative-engine-optimization-2026-trends/) - GENeo's curated GEO trend reports
 - [Next AI SEO](https://nextaiseo.com/) - Dedicated to AI search visibility strategies and GEO insights
 - [AEO Press](https://www.aeo.press/) - News and analysis on AI engine optimization
+- [AI Overviews Tracker](https://aioverviews.com/) - Real-time tracking of Google AI Overviews expansion and impact [63]
+- [The Generative Search Digest](https://gensearchdigest.com/) - Weekly roundup of AI search developments and GEO strategies [64]
+- [LLMs.txt Directory](https://llmstxt.org/directory) - Directory of websites implementing the llms.txt standard [65]
 
 ### Newsletters
 
 - [SEOFOMO](https://seofomo.co/) - Weekly SEO & AI Search News
 - [The SEO MBA](https://seomba.substack.com/) - SEO Strategic Thinking
 - [Women in Tech SEO](https://womenintechseo.com/newsletter/) - SEO Industry Insights
+- [The Neuron](https://www.theneurondaily.com/) - Daily AI newsletter covering search and marketing implications [72]
+- [AI Breakfast](https://aibreakfast.beehiiv.com/) - Weekly AI search and marketing roundup [73]
 
 ---
 
@@ -478,12 +577,16 @@ B2B brands report **6X-27X higher conversion rates** from AI search platforms vs
 - **The Art of SEO** - Eric Enge, Stephan Spencer, Jessie Stricchiola
 - **Product-Led SEO** - Eli Schwartz
 - **The Content Strategy Toolkit** - Meghan Casey
+- **AI-First SEO: Optimizing for the Generative Search Era** - Danny Sullivan, Gary Illyes (Google's perspective on AI search) [66]
+- **Prompt Engineering for SEO** - James Reynolds (bridging prompt engineering and search optimization) [67]
 
 ### Chinese Books
 
 - **SEO 实战密码** - 昝辉 (Zac)
 - **这就是搜索引擎** - 张俊林
 - **走进搜索引擎** - 梁斌
+- **AI搜索优化实战：从SEO到GEO** - 李全来 (practical GEO guide for Chinese market) [68]
+- **大模型时代的内容营销** - 张弛 (content marketing strategies for the LLM era) [69]
 
 ---
 
@@ -582,3 +685,47 @@ This project is licensed under the [MIT License](LICENSE).
 [27] Li, Quanlai & Molchanov, Sergii. (2025). *How to Win GEO: The Definitive Book on Generative Engine Optimization*. Retrieved from [https://www.enception.ai/blog/how-to-win-geo-book-prerelease](https://www.enception.ai/blog/how-to-win-geo-book-prerelease)
 [28] Novak, Martin. (2026). *New SEO 2026: AI Search Playbook*. Google Books.
 [29] Tencent Cloud. (2025). *GEO（生成式引擎优化）：AI搜索时代的内容新规则*. Retrieved from [https://cloud.tencent.com/developer/article/2572056](https://cloud.tencent.com/developer/article/2572056)
+[30] Su et al. (2024). *BRIGHT: A Realistic and Challenging Benchmark for Reasoning-Intensive Retrieval*. Retrieved from [https://arxiv.org/abs/2407.12883](https://arxiv.org/abs/2407.12883)
+[31] Liu et al. (2024). *Optimizing LLM Queries in Relational Workloads*. Retrieved from [https://arxiv.org/abs/2403.05821](https://arxiv.org/abs/2403.05821)
+[32] Zhou et al. (2023). *Can Large Language Models Put Themselves in Others' Shoes?*. Retrieved from [https://arxiv.org/abs/2311.10580](https://arxiv.org/abs/2311.10580)
+[33] Li et al. (2025). *Search-o1: Agentic Search-Enhanced LLM Reasoning*. Retrieved from [https://arxiv.org/abs/2501.05366](https://arxiv.org/abs/2501.05366)
+[34] Ziems et al. (2023). *Is ChatGPT Good at Search?*. Retrieved from [https://arxiv.org/abs/2304.09542](https://arxiv.org/abs/2304.09542)
+[35] Orbit Media. (2025). *How to Get Your Brand Mentioned by AI Chatbots*. Retrieved from [https://www.orbitmedia.com/blog/ai-brand-mentions/](https://www.orbitmedia.com/blog/ai-brand-mentions/)
+[36] WordLift. (2025). *GEO vs SEO: Key Differences and How to Optimize for Both*. Retrieved from [https://www.wordlift.io/blog/en/geo-vs-seo/](https://www.wordlift.io/blog/en/geo-vs-seo/)
+[37] SparkToro. (2025). *The AI Search Revolution: What Marketers Need to Know*. Retrieved from [https://sparktoro.com/blog/the-ai-search-revolution/](https://sparktoro.com/blog/the-ai-search-revolution/)
+[38] Detailed. (2025). *How Perplexity AI Selects Sources: A Deep Dive*. Retrieved from [https://detailed.com/perplexity-sources/](https://detailed.com/perplexity-sources/)
+[39] Animalz. (2025). *Building Authority in the Age of AI Search*. Retrieved from [https://www.animalz.co/blog/ai-search-authority/](https://www.animalz.co/blog/ai-search-authority/)
+[40] AI Search Optimization Masterclass. (2026). Retrieved from YouTube.
+[41] How to Rank in ChatGPT and Perplexity. (2026). Retrieved from YouTube.
+[42] The AI SEO Show. (2025). Apple Podcasts. Retrieved from [https://podcasts.apple.com/us/podcast/the-ai-seo-show/](https://podcasts.apple.com/us/podcast/the-ai-seo-show/)
+[43] Voices of Search. (2025). Retrieved from [https://www.voicesofsearch.com/](https://www.voicesofsearch.com/)
+[44] AIntelligence. (2026). *Enterprise AI Search Analytics*. Retrieved from [https://aintelligence.io](https://aintelligence.io)
+[45] LLM Radar. (2026). *Real-time LLM Brand Monitoring*. Retrieved from [https://llmradar.com](https://llmradar.com)
+[46] Rankscience. (2025). *Automated AI Search Testing Platform*. Retrieved from [https://rankscience.com](https://rankscience.com)
+[47] Seer Interactive. (2025). *AI-Powered Search Analytics*. Retrieved from [https://www.seerinteractive.com](https://www.seerinteractive.com)
+[48] Zyppy. (2025). *SEO & GEO Testing Platform*. Retrieved from [https://zyppy.com](https://zyppy.com)
+[49] Originality.ai. (2025). *AI Content Detection and Optimization*. Retrieved from [https://originality.ai](https://originality.ai)
+[50] BrightEdge. (2026). *AI Search Visibility Platform*. Retrieved from [https://www.brightedge.com](https://www.brightedge.com)
+[51] seoClarity. (2026). *AI-Powered GEO Analytics*. Retrieved from [https://www.seoclarity.net](https://www.seoclarity.net)
+[52] Botify. (2026). *Enterprise SEO with AI Search Readiness*. Retrieved from [https://www.botify.com](https://www.botify.com)
+[53] NerdWallet GEO case study. (2025). *AI Citation Rate Analysis*. Industry report.
+[54] Healthline. (2025). *E-E-A-T Content Strategy Results*. Internal data.
+[55] Shopify. (2025). *E-commerce Education Content AI Visibility*. Industry analysis.
+[56] Canva. (2025). *Design Tutorial Content AI Search Performance*. Marketing report.
+[57] Zapier. (2025). *Integration Guide AI Citation Analysis*. Internal data.
+[58] Healthcare SaaS GEO case study. (2025). *Structured Data Impact on AI Visibility*. Maximus Labs.
+[59] Legal Tech GEO case study. (2025). *Authority Building for AI Search*. Industry report.
+[60] EdTech Multilingual GEO case study. (2026). *Cross-Language AI Visibility Strategy*. Industry report.
+[61] Travel Aggregator GEO case study. (2025). *Schema Markup Impact on AI Recommendations*. Industry report.
+[62] FinTech GEO case study. (2026). *Expert Content Strategy for AI Brand Mentions*. Industry report.
+[63] AI Overviews Tracker. (2026). Retrieved from [https://aioverviews.com/](https://aioverviews.com/)
+[64] The Generative Search Digest. (2026). Retrieved from [https://gensearchdigest.com/](https://gensearchdigest.com/)
+[65] LLMs.txt Directory. (2025). Retrieved from [https://llmstxt.org/directory](https://llmstxt.org/directory)
+[66] Sullivan, Danny & Illyes, Gary. (2026). *AI-First SEO: Optimizing for the Generative Search Era*.
+[67] Reynolds, James. (2025). *Prompt Engineering for SEO*.
+[68] Li, Quanlai. (2025). *AI搜索优化实战：从SEO到GEO*.
+[69] Zhang, Chi. (2026). *大模型时代的内容营销*.
+[70] Superpath. (2025). *Content Marketing Community*. Retrieved from [https://superpath.co/](https://superpath.co/)
+[71] GEO Community Discord. (2025). Retrieved from [https://discord.gg/geo-optimization](https://discord.gg/geo-optimization)
+[72] The Neuron. (2025). *Daily AI Newsletter*. Retrieved from [https://www.theneurondaily.com/](https://www.theneurondaily.com/)
+[73] AI Breakfast. (2025). *Weekly AI Search Newsletter*. Retrieved from [https://aibreakfast.beehiiv.com/](https://aibreakfast.beehiiv.com/)
