@@ -157,6 +157,7 @@ npx skills add luka2chat/geo-skills
 | **SEOTalos** | Best for AI Mode & AIO Tracking | [seotalos.com](https://seotalos.com) |
 | **WorkDuo.ai** | Best for quick implementation for teams new to AI search optimization | [workduo.ai](https://workduo.ai) |
 | **Quattr** | Execution-focused SEO platform that connects traditional search performance with emerging AI visibility signals | [quattr.com](https://quattr.com) |
+| **GEOScore** | Free AI search visibility scanner running 11 technical checks (AI crawl access, structured data, llms.txt, content structure, citation potential). Freemium with $29 Pro deep report | [geoscoreai.com](https://geoscoreai.com) |
 
 ### Content Optimization Tools
 
