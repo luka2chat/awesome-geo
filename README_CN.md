@@ -90,6 +90,7 @@
 | **NeuronWriter**    | 基于 NLP 的内容优化                                                                  | [neuronwriter.com](https://neuronwriter.com)     |
 | **Writesonic**      | 具有 AEO 功能的 AI 内容生成平台                                                          | [writesonic.com](https://writesonic.com)         |
 | **Answer Socrates** | 最适合 GEO 关键词发现                                                                 | [answersocrates.com](https://answersocrates.com) |
+| **AEO Scanner**     | 免费网站 AI 友好度评分工具，分析 9 项 AEO/GEO 指标并生成 JSON-LD、FAQ Schema、llms.txt 修复代码 | [aeo.codecity.com.tw](https://aeo.codecity.com.tw/) |
 
 ### 品牌监测
 
