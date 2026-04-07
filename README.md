@@ -89,6 +89,7 @@
 | **NeuronWriter**    | NLP-based content optimization                                                                                                      | [neuronwriter.com](https://neuronwriter.com)     |
 | **Writesonic**      | AI content generation platform with AEO features.                                                                                   | [writesonic.com](https://writesonic.com)         |
 | **Answer Socrates** | Best for GEO Keyword Discovery                                                                                                      | [answersocrates.com](https://answersocrates.com) |
+| **aeoptimize**      | Open-source CLI + Claude Code skills for AEO. Scores AI readability (0-100), generates llms.txt & JSON-LD, multi-AI scoring with gemini/copilot | [GitHub](https://github.com/dexuwang627-cloud/aeoptimize) |
 
 ### Brand Monitoring
 
