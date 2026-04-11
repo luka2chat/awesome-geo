@@ -108,6 +108,7 @@
 | **Google Rich Results Test** | Test structured data                                    | [Google Tool](https://search.google.com/test/rich-results)                  |
 | **Schema Markup Generator**  | Structured data generator                               | [technicalseo.com](https://technicalseo.com/tools/schema-markup-generator/) |
 | **Schema Pro**               | WordPress plugin for automated Schema markup generation | [wpschema.com](https://wpschema.com)                                        |
+| **toprank**                  | Open-source Claude Code plugin that generates JSON-LD schema markup (FAQ, HowTo, Article, Product, LocalBusiness) and ships it directly to source code or CMS (WordPress/Strapi/Contentful/Ghost). 107 stars, MIT. | [github.com/nowork-studio/toprank](https://github.com/nowork-studio/toprank) |
 
 ### AI Citation & Visibility Analytics
 
