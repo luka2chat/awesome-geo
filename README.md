@@ -90,6 +90,7 @@
 | **NeuronWriter**    | NLP-based content optimization                                                                                                      | [neuronwriter.com](https://neuronwriter.com)     |
 | **Writesonic**      | AI content generation platform with AEO features.                                                                                   | [writesonic.com](https://writesonic.com)         |
 | **Answer Socrates** | Best for GEO Keyword Discovery                                                                                                      | [answersocrates.com](https://answersocrates.com) |
+| **AEO Scanner**     | Free website AI-friendliness scoring tool analyzing 9 AEO/GEO metrics with fix code generation for JSON-LD, FAQ Schema, llms.txt            | [aeo.codecity.com.tw](https://aeo.codecity.com.tw/) |
 
 ### Brand Monitoring
 
