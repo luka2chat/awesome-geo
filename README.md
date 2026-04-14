@@ -61,9 +61,9 @@
 ## Tools & Platforms
 
 ### AI Search Engine Monitoring
-
 | Tool               | Description                                                                                                                                     | Link                                             |
-| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| --- | --- | ---
+| **Aiden** | AI-powered AEO manager with 11 autonomous agents. Audits websites, tracks citations across ChatGPT, Perplexity, Google AI Overview, Gemini & Claude. Free AEO Health Score. | [goaiden.ai](https://goaiden.ai) |
 | **Geol.ai**        | First comprehensive GEO platform with automated monitoring, 50+ factor Quality Scoring Engine, and CMS integrations (WordPress, Shopify, Wix)   | [geol.ai](https://geol.ai)                       |
 | **OptimizeGEO**    | AI search marketing intelligence platform tracking visibility score, share of voice, sentiment across AI platforms (ISO 27001, SOC 2 compliant) | [optimizegeo.ai](https://www.optimizegeo.ai)     |
 | **Conductor**      | End-to-end enterprise AEO platform, combining AEO/GEO and traditional SEO                                                                       | [conductor.com](https://www.conductor.com)       |
