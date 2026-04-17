@@ -120,6 +120,7 @@
 | **seoClarity** | AI-powered platform with GEO analytics module for enterprise content optimization | [seoclarity.net](https://www.seoclarity.net) |
 | **Botify** | Enterprise SEO platform with AI search readiness scoring and crawl optimization | [botify.com](https://www.botify.com) |
 | **Foglift** | AI-powered GEO readiness scanner analyzing llms.txt, structured data, crawlability, and AI search visibility. Free scan with API and MCP server | [foglift.io](https://foglift.io) |
+| **Not Human Search** | Open-source GEO scorer. Scores any URL across 7 agentic-readiness signals (llms.txt, OpenAPI, ai-plugin, MCP, structured API, robots.txt, schema.org). Public index of 8,000+ already-scored sites. Free REST API, MCP server, embeddable SVG badges, and a GitHub Action for CI. MIT | [nothumansearch.ai](https://nothumansearch.ai) |
 
 
 ## AI Search Engines
