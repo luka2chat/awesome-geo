@@ -78,6 +78,7 @@
 | **WorkDuo.ai**     | Best for quick implementation for teams new to AI search optimization                                                                           | [workduo.ai](https://workduo.ai)                 |
 | **Quattr**         | Execution-focused SEO platform that connects traditional search performance with emerging AI visibility signals                                 | [quattr.com](https://quattr.com)                 |
 | **Surfeo**         | AI-powered GEO platform for SMBs; tracks brand visibility across ChatGPT, Gemini, Perplexity & Claude with content generation, audits, and scoring | [surfeo.ai](https://surfeo.ai)                   |
+| **Arenza**         | AI visibility platform for agencies and brands tracking mentions, sentiment, and share of voice across ChatGPT, Claude, Gemini, Perplexity, Copilot, and Grok | [arenza.ai](https://arenza.ai)                   |
 
 ### Content Optimization Tools
 
