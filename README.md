@@ -541,6 +541,13 @@ B2B brands report **6X-27X higher conversion rates** from AI search platforms vs
 | **Legal Consulting**     | Requires professional qualifications and accurate legal citations. |
 
 
+
+### Small & Medium Business Examples
+
+| Business | GEO Implementation |
+| -------- | ------------------ |
+| **[Fix72](https://fix72.com)** (IT repair, Le Mans 🇫🇷) | Full GEO stack: `llms.txt`, SSR prerendering, LocalBusiness schema, 4 thematic sitemaps, Google Indexing API automation. [Open source](https://github.com/dilm-seo/depannagelemans) |
+
 ## Communities & Forums
 
 - [r/SEO](https://reddit.com/r/seo) - Reddit SEO Community.
