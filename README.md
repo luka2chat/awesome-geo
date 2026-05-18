@@ -570,6 +570,7 @@ B2B brands report **6X-27X higher conversion rates** from AI search platforms vs
 - [AI Overviews Tracker](https://aioverviews.com/) - Real-time tracking of Google AI Overviews expansion and impact.
 - [The Generative Search Digest](https://gensearchdigest.com/) - Weekly roundup of AI search developments and GEO strategies.
 - [LLMs.txt Directory](https://llmstxt.org/directory) - Directory of websites implementing the llms.txt standard.
+- [awesome-aimo](https://github.com/septimlabs-code/awesome-aimo) - Companion list framing the model-recall side of GEO. Curates surfaces AI assistants disproportionately read (awesome-lists, READMEs, structured-data pages) plus practices for landing in the recall set. CC0.
 
 ### Newsletters
 
