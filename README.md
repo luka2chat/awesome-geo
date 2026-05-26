@@ -45,7 +45,7 @@
 - [The Rise of Answer Engines](https://moz.com/blog/answer-engine-optimization) - Moz's in-depth analysis on answer engine optimization.
 - [Optimizing Content for ChatGPT and AI Assistants](https://ahrefs.com/blog/ai-seo/) - Ahrefs' AI content optimization strategies.
 - [How to Optimize for Google AI Overviews 2026](https://becomingseo.com/insights/aeo-geo/optimize-for-google-ai-overviews/) - Comprehensive guide to optimizing for Google AI Overviews.
-
+- [ThatDevPro Reference Library](https://www.thatdevpro.com/reference/) - 26 canonical reference pages covering every crawler signal a website emits (HTML meta tags, HTTP headers, status codes). Paired with `/insights/` library of 100+ AEO/GEO/AIO framework articles.
 ### Video Tutorials
 - [Forget SEO Hacks — GEO Is About Credibility, Clarity, and Control](https://www.youtube.com/watch?v=-PFBgavuFrs) - In-depth GEO strategy focusing on building AI visibility through authority.
 - [How to Win in Generative Engine Optimization (GEO): Playbook from +30 Sites](https://www.youtube.com/watch?v=JMaDW1uOzY0) - Embarque's practical GEO framework with real case study data (27K+ AI visits).
@@ -109,6 +109,9 @@
 | **Schema Markup Generator**  | Structured data generator                               | [technicalseo.com](https://technicalseo.com/tools/schema-markup-generator/) |
 | **Schema Pro**               | WordPress plugin for automated Schema markup generation | [wpschema.com](https://wpschema.com)                                        |
 
+
+- [aio-surfaces](https://github.com/Janady13/aio-surfaces) - Open-source Python toolkit (MIT) for generating the four AI-citation surfaces from a single typed site config: `llms.txt`, `aeo.json`, `entity.json`, `brand.json`.
+- [seo-sidecar](https://github.com/Janady13/seo-sidecar) - FastAPI + nginx SSI sidecar for injecting fresh Schema.org JSON-LD into running nginx sites without redeploys. MIT licensed.
 ### AI Citation & Visibility Analytics
 
 | Tool | Description | Link |
