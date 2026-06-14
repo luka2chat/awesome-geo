@@ -120,7 +120,7 @@
 | **seoClarity** | AI-powered platform with GEO analytics module for enterprise content optimization | [seoclarity.net](https://www.seoclarity.net) |
 | **Botify** | Enterprise SEO platform with AI search readiness scoring and crawl optimization | [botify.com](https://www.botify.com) |
 | **Foglift** | AI-powered GEO readiness scanner analyzing llms.txt, structured data, crawlability, and AI search visibility. Free scan with API and MCP server | [foglift.io](https://foglift.io) |
-
+| **Is My Brand in AI** | Free tools that check which AI crawlers a site's robots.txt allows (GPTBot, ClaudeBot, PerplexityBot, Google-Extended, BingBot) and generate an llms.txt file. No signup. | [ismybrandinai.com](https://ismybrandinai.com/tools/ai-bot-checker) |
 
 ## AI Search Engines
 
