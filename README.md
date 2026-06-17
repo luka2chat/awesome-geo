@@ -69,7 +69,8 @@
 | **Conductor**      | End-to-end enterprise AEO platform, combining AEO/GEO and traditional SEO                                                                       | [conductor.com](https://www.conductor.com)       |
 | **Contently**      | Content creation, optimization, and AI visibility tracking in one system                                                                        | [contently.com](https://contently.com)           |
 | **Profound**       | Deep geo-analysis with multi-language support for AI brand visibility                                                                           | [profound.ai](https://profound.ai)               |
-| **Otterly.AI**     | AI search engine ranking tracker                                                                                                                | [otterly.ai](https://otterly.ai)                 |
+| **Otterly.AI**     | AI search engine ranking tracker                                                                                                                | [otterly.ai](https://otterly.ai) 
+| **OranGEO**        | AI brand visibility and GEO monitoring platform tracking mentions, citations, sentiment, and competitor share of voice across major AI answer engines | [geo.oran.cn/ai](https://geo.oran.cn/ai)   |
 | **Peec AI**        | Analyze brand mentions in AI search                                                                                                             | [peec.ai](https://peec.ai)                       |
 | **Ezeo**           | AI-powered SEO, GEO & AEO platform tracking ChatGPT, Claude, Perplexity, Gemini, Grok, and Reddit                                               | [ezeo.ai](https://ezeo.ai)                       |
 | **Prompt Monitor** | Track and optimize AI search performance with prompt-level analytics                                                                            | [promptmonitor.io](https://www.promptmonitor.io) |
