@@ -120,6 +120,7 @@
 | **seoClarity** | AI-powered platform with GEO analytics module for enterprise content optimization | [seoclarity.net](https://www.seoclarity.net) |
 | **Botify** | Enterprise SEO platform with AI search readiness scoring and crawl optimization | [botify.com](https://www.botify.com) |
 | **Foglift** | AI-powered GEO readiness scanner analyzing llms.txt, structured data, crawlability, and AI search visibility. Free scan with API and MCP server | [foglift.io](https://foglift.io) |
+| **LLM Pulse** | All-in-one AI search platform tracking brand visibility, mentions, citations, sentiment and share of voice across ChatGPT, Perplexity, Gemini and Google AI Overviews, plus AI traffic analytics | [llmpulse.ai](https://llmpulse.ai) |
 
 
 ## AI Search Engines
