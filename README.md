@@ -83,6 +83,7 @@
 
 | Tool                | Description                                                                                                                         | Link                                             |
 | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| **GEODoctor**       | Open-source GEO audit CLI — `npx geo-doctor audit yoursite.com` scores 33 evidence-backed rules across machine access, structure, chunkability, citability & freshness; every rule cites public research; bilingual EN/中文; no API key | [github.com/LJMStark/geo-doctor](https://github.com/LJMStark/geo-doctor) |
 | **Clearscope**      | AI-powered content optimization platform                                                                                            | [clearscope.io](https://clearscope.io)           |
 | **Surfer SEO**      | Content optimization and SERP analysis                                                                                              | [surferseo.com](https://surferseo.com)           |
 | **MarketMuse**      | AI content strategy platform                                                                                                        | [marketmuse.com](https://marketmuse.com)         |
