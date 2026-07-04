@@ -64,6 +64,7 @@
 
 | Tool               | Description                                                                                                                                     | Link                                             |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| **AnswerLens**     | Free public-evidence audit for B2B SaaS sites, checking crawlable URLs, `llms.txt`, pricing, comparison, and proof pages before a paid report path | [app.sfdj.net](https://app.sfdj.net/)            |
 | **Geol.ai**        | First comprehensive GEO platform with automated monitoring, 50+ factor Quality Scoring Engine, and CMS integrations (WordPress, Shopify, Wix)   | [geol.ai](https://geol.ai)                       |
 | **OptimizeGEO**    | AI search marketing intelligence platform tracking visibility score, share of voice, sentiment across AI platforms (ISO 27001, SOC 2 compliant) | [optimizegeo.ai](https://www.optimizegeo.ai)     |
 | **Conductor**      | End-to-end enterprise AEO platform, combining AEO/GEO and traditional SEO                                                                       | [conductor.com](https://www.conductor.com)       |
