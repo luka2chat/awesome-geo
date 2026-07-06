@@ -108,6 +108,7 @@
 | **Google Rich Results Test** | Test structured data                                    | [Google Tool](https://search.google.com/test/rich-results)                  |
 | **Schema Markup Generator**  | Structured data generator                               | [technicalseo.com](https://technicalseo.com/tools/schema-markup-generator/) |
 | **Schema Pro**               | WordPress plugin for automated Schema markup generation | [wpschema.com](https://wpschema.com)                                        |
+| **Citeable**                 | Generates llms.txt, llms-full.txt and Q&A schema.org (JSON-LD) markup from a site's content to make it citable by AI answer engines | [citeable.eu](https://citeable.eu)                                          |
 
 ### AI Citation & Visibility Analytics
 
