@@ -120,6 +120,7 @@
 | **seoClarity** | AI-powered platform with GEO analytics module for enterprise content optimization | [seoclarity.net](https://www.seoclarity.net) |
 | **Botify** | Enterprise SEO platform with AI search readiness scoring and crawl optimization | [botify.com](https://www.botify.com) |
 | **Foglift** | AI-powered GEO readiness scanner analyzing llms.txt, structured data, crawlability, and AI search visibility. Free scan with API and MCP server | [foglift.io](https://foglift.io) |
+| **shopify-geo-audit** | Open-source CLI that audits Shopify stores for AI search readiness — scores nine weighted checks 0-100 and generates the fixes (Product JSON-LD, llms.txt, robots.txt). No signup, runs locally | [github.com/builtbyabs/shopify-geo-audit](https://github.com/builtbyabs/shopify-geo-audit) |
 
 
 ## AI Search Engines
