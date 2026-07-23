@@ -45,6 +45,8 @@
 - [The Rise of Answer Engines](https://moz.com/blog/answer-engine-optimization) - Moz's in-depth analysis on answer engine optimization.
 - [Optimizing Content for ChatGPT and AI Assistants](https://ahrefs.com/blog/ai-seo/) - Ahrefs' AI content optimization strategies.
 - [How to Optimize for Google AI Overviews 2026](https://becomingseo.com/insights/aeo-geo/optimize-for-google-ai-overviews/) - Comprehensive guide to optimizing for Google AI Overviews.
+- [Which AI Search Platforms Matter in China?](https://visibilityatlas.com/blog/which-ai-search-platforms-matter-in-china/) - Guide to China's AI search ecosystem (DeepSeek, Doubao, Qwen, Kimi, Tencent Yuanbao, Baidu AI) with a repeatable cross-platform brand testing protocol.
+- [DeepSeek vs Doubao vs Qwen Brand Visibility](https://visibilityatlas.com/blog/deepseek-vs-doubao-vs-qwen-brand-visibility/) - How brand mentions, citations, and competitor substitution differ across China's major AI assistants.
 
 ### Video Tutorials
 - [Forget SEO Hacks — GEO Is About Credibility, Clarity, and Control](https://www.youtube.com/watch?v=-PFBgavuFrs) - In-depth GEO strategy focusing on building AI visibility through authority.
