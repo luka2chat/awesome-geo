@@ -74,6 +74,7 @@
 | **Peec AI**        | 分析 AI 搜索中的品牌提及                                                            | [peec.ai](https://peec.ai)                       |
 | **Ezeo**           | AI 驱动的 SEO、GEO 和 AEO 平台，追踪 ChatGPT、Claude、Perplexity、Gemini、Grok 和 Reddit | [ezeo.ai](https://ezeo.ai)                       |
 | **Prompt Monitor** | 基于 Prompt 级别分析的 AI 搜索性能追踪和优化                                              | [promptmonitor.io](https://www.promptmonitor.io) |
+| **Prerender Buddy** | 开源工具，用于检测爬虫可见性和页面渲染输出差异，帮助排查 AI 搜索可见度问题                                          | [Prerender Buddy CLI](https://github.com/kopachlager/prerenderbuddy-cli) |
 | **Knowatoa**       | AI 搜索可见度分析平台                                                              | [knowatoa.com](https://knowatoa.com)             |
 | **SEOTalos**       | 最适合 AI 模式和 AIO 追踪                                                         | [seotalos.com](https://seotalos.com)             |
 | **WorkDuo.ai**     | 最适合 AI 搜索优化新手团队快速实施                                                       | [workduo.ai](https://workduo.ai)                 |
