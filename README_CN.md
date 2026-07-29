@@ -78,6 +78,7 @@
 | **SEOTalos**       | 最适合 AI 模式和 AIO 追踪                                                         | [seotalos.com](https://seotalos.com)             |
 | **WorkDuo.ai**     | 最适合 AI 搜索优化新手团队快速实施                                                       | [workduo.ai](https://workduo.ai)                 |
 | **Quattr**         | 专注于执行的 SEO 平台，连接传统搜索性能与新兴 AI 可见性信号                                        | [quattr.com](https://quattr.com)                 |
+| **SeenForAI**      | 覆盖 7 个大模型的 AI 搜索可见度追踪平台，含 ChatGPT、Claude、Gemini、Perplexity 及中文模型豆包、Kimi、DeepSeek；提供声量份额、情感分析、引用来源提取与幻觉校验 | [seenfor.ai](https://seenfor.ai)                 |
 
 ### 内容优化工具
 
