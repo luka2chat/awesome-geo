@@ -72,6 +72,7 @@
 | **Otterly.AI**     | AI search engine ranking tracker                                                                                                                | [otterly.ai](https://otterly.ai)                 |
 | **Peec AI**        | Analyze brand mentions in AI search                                                                                                             | [peec.ai](https://peec.ai)                       |
 | **Ezeo**           | AI-powered SEO, GEO & AEO platform tracking ChatGPT, Claude, Perplexity, Gemini, Grok, and Reddit                                               | [ezeo.ai](https://ezeo.ai)                       |
+| **Koalr**          | AI visibility intelligence platform tracking brand mentions, citations, and share of voice across major AI answer engines                       | [koalr.ai](https://www.koalr.ai)                 |
 | **Prompt Monitor** | Track and optimize AI search performance with prompt-level analytics                                                                            | [promptmonitor.io](https://www.promptmonitor.io) |
 | **Knowatoa**       | AI search visibility analytics platform                                                                                                         | [knowatoa.com](https://knowatoa.com)             |
 | **SEOTalos**       | Best for AI Mode & AIO Tracking                                                                                                                 | [seotalos.com](https://seotalos.com)             |
