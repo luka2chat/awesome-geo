@@ -78,6 +78,7 @@
 | **WorkDuo.ai**     | Best for quick implementation for teams new to AI search optimization                                                                           | [workduo.ai](https://workduo.ai)                 |
 | **Quattr**         | Execution-focused SEO platform that connects traditional search performance with emerging AI visibility signals                                 | [quattr.com](https://quattr.com)                 |
 | **Surfeo**         | AI-powered GEO platform for SMBs; tracks brand visibility across ChatGPT, Gemini, Perplexity & Claude with content generation, audits, and scoring | [surfeo.ai](https://surfeo.ai)                   |
+| **Can AI Bots Read My Site?** | Free checker for OpenAI and Anthropic crawler access that compares robots.txt rules with observed responses for search, user-requested retrieval, and training crawlers. | [mydentify.com](https://mydentify.com/tools/ai-crawler-access-checker) |
 
 ### Content Optimization Tools
 
