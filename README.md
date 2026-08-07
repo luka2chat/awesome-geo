@@ -71,6 +71,7 @@
 | **Profound**       | Deep geo-analysis with multi-language support for AI brand visibility                                                                           | [profound.ai](https://profound.ai)               |
 | **Otterly.AI**     | AI search engine ranking tracker                                                                                                                | [otterly.ai](https://otterly.ai)                 |
 | **Peec AI**        | Analyze brand mentions in AI search                                                                                                             | [peec.ai](https://peec.ai)                       |
+| **Seeno**          | AI brand visibility tracking across ChatGPT, Perplexity, Gemini, Claude and Google AI Overviews with industry leaderboards and a free audit     | [seeno.ai](https://seeno.ai)                     |
 | **Ezeo**           | AI-powered SEO, GEO & AEO platform tracking ChatGPT, Claude, Perplexity, Gemini, Grok, and Reddit                                               | [ezeo.ai](https://ezeo.ai)                       |
 | **Prompt Monitor** | Track and optimize AI search performance with prompt-level analytics                                                                            | [promptmonitor.io](https://www.promptmonitor.io) |
 | **Knowatoa**       | AI search visibility analytics platform                                                                                                         | [knowatoa.com](https://knowatoa.com)             |
