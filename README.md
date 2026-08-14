@@ -90,6 +90,7 @@
 | **NeuronWriter**    | NLP-based content optimization                                                                                                      | [neuronwriter.com](https://neuronwriter.com)     |
 | **Writesonic**      | AI content generation platform with AEO features.                                                                                   | [writesonic.com](https://writesonic.com)         |
 | **Answer Socrates** | Best for GEO Keyword Discovery                                                                                                      | [answersocrates.com](https://answersocrates.com) |
+| **WeaveAI Cite**    | Autonomous AEO content engine that drafts and publishes content built to earn citations in AI answers                               | [weaveai.dev](https://www.weaveai.dev/products/cite) |
 
 ### Brand Monitoring
 
