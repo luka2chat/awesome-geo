@@ -64,7 +64,7 @@
 
 | Tool               | Description                                                                                                                                     | Link                                             |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| **Geol.ai**        | First comprehensive GEO platform with automated monitoring, 50+ factor Quality Scoring Engine, and CMS integrations (WordPress, Shopify, Wix)   | [geol.ai](https://geol.ai)                       |
+| **Geol.ai**        | First comprehensive GEO platform with automated monitoring, 50+ factor Quality Scoring Engine, and 6 format-file exports you publish   | [geol.ai](https://geol.ai)                       |
 | **OptimizeGEO**    | AI search marketing intelligence platform tracking visibility score, share of voice, sentiment across AI platforms (ISO 27001, SOC 2 compliant) | [optimizegeo.ai](https://www.optimizegeo.ai)     |
 | **Conductor**      | End-to-end enterprise AEO platform, combining AEO/GEO and traditional SEO                                                                       | [conductor.com](https://www.conductor.com)       |
 | **Contently**      | Content creation, optimization, and AI visibility tracking in one system                                                                        | [contently.com](https://contently.com)           |

@@ -65,7 +65,7 @@
 
 | 工具                 | 描述                                                                        | 链接                                               |
 | ------------------ | ------------------------------------------------------------------------- | ------------------------------------------------ |
-| **Geol.ai**        | 首个综合性 GEO 平台，50+ 因素质量评分引擎，支持 WordPress、Shopify、Wix 等 CMS 集成               | [geol.ai](https://geol.ai)                       |
+| **Geol.ai**        | 首个综合性 GEO 平台，50+ 因素质量评分引擎，评分 URL 并生成 6 种格式文件供自行发布               | [geol.ai](https://geol.ai)                       |
 | **OptimizeGEO**    | AI 搜索营销智能平台，追踪可见度评分、声量份额和情感分析（ISO 27001、SOC 2 合规）                         | [optimizegeo.ai](https://www.optimizegeo.ai)     |
 | **Conductor**      | 端到端企业级 AEO 平台，结合 AEO/GEO 和传统 SEO                                          | [conductor.com](https://www.conductor.com)       |
 | **Contently**      | 集内容创作、优化和 AI 可见性追踪于一体的系统                                                  | [contently.com](https://contently.com)           |
