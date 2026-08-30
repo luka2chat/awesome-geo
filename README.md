@@ -257,7 +257,7 @@ The FAST framework helps teams assess their AI crawler readiness:
 - [ ] Ensure mobile-friendliness
 - [ ] Use semantic HTML
 - [ ] Create XML sitemap
-- [ ] Configure robots.txt to allow AI crawlers
+- [ ] Configure robots.txt separately for search discovery and model-development controls
 - [ ] Create llms.txt for structured AI-readable site information
 - [ ] Implement HTTPS
 - [ ] Optimize image alt text
@@ -266,42 +266,35 @@ The FAST framework helps teams assess their AI crawler readiness:
 #### AI Crawler Configuration
 
 ```robots.txt
-# Allow major AI search crawlers (affect real-time AI responses)
-User-agent: GPTBot
-Allow: /
-
+# Example policy: allow documented automatic search discovery
 User-agent: OAI-SearchBot
 Allow: /
 
-User-agent: ChatGPT-User
-Allow: /
-
-User-agent: ClaudeBot
+User-agent: Claude-SearchBot
 Allow: /
 
 User-agent: PerplexityBot
 Allow: /
 
+User-agent: Googlebot
+Allow: /
+
+# Opt out of documented model-development and Gemini grounding controls
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
 User-agent: Google-Extended
-Allow: /
-
-User-agent: Applebot-Extended
-Allow: /
-
-# Allow AI training crawlers (affect future model training)
-User-agent: CCBot
-Allow: /
-
-User-agent: anthropic-ai
-Allow: /
-
-User-agent: Bytespider
-Allow: /
+Disallow: /
 ```
+
+This is one policy example, not a universal recommendation. Search, model-development, and user-triggered agents have different purposes and controls. User-triggered agents are omitted above because their robots.txt behavior differs by provider. Review the current [OpenAI](https://developers.openai.com/api/docs/bots), [Anthropic](https://support.claude.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler), [Perplexity](https://docs.perplexity.ai/docs/resources/perplexity-crawlers), and [Google](https://developers.google.com/crawling/docs/crawlers-fetchers/google-common-crawlers) documentation before publishing. The [AI Crawler Access Reference](https://github.com/alternatefutures/ai-crawler-access-reference) provides source-linked CSV, JSON, and tested policy fixtures.
 
 #### llms.txt Configuration
 
-[llms.txt](https://llmstxt.org/) is an emerging standard (similar to robots.txt) that provides AI models with structured, machine-readable information about your website. Sites with proper llms.txt see ~24% more accurate brand descriptions in AI responses.
+[llms.txt](https://llmstxt.org/) is a proposed standard (similar to robots.txt) for publishing a structured, machine-readable summary of a website. Adoption and behavior vary by provider, so treat it as supplementary to useful HTML, robots.txt, and sitemaps rather than as a visibility guarantee.
 
 ```markdown
 # Your Brand Name

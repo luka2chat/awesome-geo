@@ -256,7 +256,7 @@ FAST 框架帮助团队快速评估 AI 爬虫就绪度：
 - [ ] 确保移动端友好
 - [ ] 使用语义化 HTML
 - [ ] 创建 XML 站点地图
-- [ ] 配置 robots.txt 允许 AI 爬虫
+- [ ] 分别配置 robots.txt 中用于搜索发现和模型开发的控制项
 - [ ] 创建 llms.txt 提供结构化的 AI 可读网站信息
 - [ ] 实施 HTTPS
 - [ ] 优化图片 alt 文本
@@ -265,42 +265,35 @@ FAST 框架帮助团队快速评估 AI 爬虫就绪度：
 #### AI 爬虫配置
 
 ```robots.txt
-# 允许主要 AI 搜索爬虫（影响实时 AI 响应）
-User-agent: GPTBot
-Allow: /
-
+# 示例策略：允许已记录的自动搜索发现爬虫
 User-agent: OAI-SearchBot
 Allow: /
 
-User-agent: ChatGPT-User
-Allow: /
-
-User-agent: ClaudeBot
+User-agent: Claude-SearchBot
 Allow: /
 
 User-agent: PerplexityBot
 Allow: /
 
+User-agent: Googlebot
+Allow: /
+
+# 选择退出已记录的模型开发和 Gemini grounding 控制
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
 User-agent: Google-Extended
-Allow: /
-
-User-agent: Applebot-Extended
-Allow: /
-
-# 允许 AI 训练爬虫（影响未来模型训练）
-User-agent: CCBot
-Allow: /
-
-User-agent: anthropic-ai
-Allow: /
-
-User-agent: Bytespider
-Allow: /
+Disallow: /
 ```
+
+这只是一个策略示例，并非通用建议。搜索、模型开发和用户触发的代理具有不同用途和控制方式。上例有意省略用户触发的代理，因为各提供商的 robots.txt 行为不同。发布前请查阅当前的 [OpenAI](https://developers.openai.com/api/docs/bots)、[Anthropic](https://support.claude.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler)、[Perplexity](https://docs.perplexity.ai/docs/resources/perplexity-crawlers) 和 [Google](https://developers.google.com/crawling/docs/crawlers-fetchers/google-common-crawlers) 文档。[AI Crawler Access Reference](https://github.com/alternatefutures/ai-crawler-access-reference) 提供来源链接的 CSV、JSON 和经过测试的策略示例。
 
 #### llms.txt 配置
 
-[llms.txt](https://llmstxt.org/) 是一个新兴标准（类似 robots.txt），为 AI 模型提供结构化的、机器可读的网站信息。正确实施 llms.txt 的网站在 AI 响应中的品牌描述准确度提高约 24%。
+[llms.txt](https://llmstxt.org/) 是一个拟议标准（类似 robots.txt），用于发布结构化、机器可读的网站摘要。各提供商的采用情况和行为不同，因此应将其视为对实用 HTML、robots.txt 和站点地图的补充，而不是可见性保证。
 
 ```markdown
 # 你的品牌名称
