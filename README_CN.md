@@ -119,6 +119,7 @@
 | **BrightEdge AI Search**      | 跨 Google AI Overviews 和 Bing Copilot 追踪 AI 搜索可见度的企业平台 | [brightedge.com](https://www.brightedge.com)           |
 | **seoClarity**                | 带有 GEO 分析模块的 AI 驱动企业内容优化平台                            | [seoclarity.net](https://www.seoclarity.net)           |
 | **Botify**                    | 具有 AI 搜索就绪度评分和爬虫优化的企业 SEO 平台                          | [botify.com](https://www.botify.com)                   |
+| **Greadme**                   | 网站审计工具，覆盖 SEO、性能与 AI 可见性；检测 AI 系统能否访问并引用网站，校验结构化数据，并为每个问题提供可直接复制的修复方案。Schema 校验器与 AI 访问检测器免费、无需注册 | [greadme.com](https://www.greadme.com)                 |
 
 
 ## AI 搜索引擎
