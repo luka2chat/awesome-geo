@@ -120,6 +120,7 @@
 | **seoClarity** | AI-powered platform with GEO analytics module for enterprise content optimization | [seoclarity.net](https://www.seoclarity.net) |
 | **Botify** | Enterprise SEO platform with AI search readiness scoring and crawl optimization | [botify.com](https://www.botify.com) |
 | **Foglift** | AI-powered GEO readiness scanner analyzing llms.txt, structured data, crawlability, and AI search visibility. Free scan with API and MCP server | [foglift.io](https://foglift.io) |
+| **Greadme** | Website audits for SEO, performance and AI visibility; checks whether AI systems can access and cite a site, validates structured data, and gives a copy-ready fix for each finding. Free Schema Validator and AI Access Checker, no signup | [greadme.com](https://www.greadme.com) |
 
 
 ## AI Search Engines
