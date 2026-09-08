@@ -108,6 +108,7 @@
 | **Google Rich Results Test** | Test structured data                                    | [Google Tool](https://search.google.com/test/rich-results)                  |
 | **Schema Markup Generator**  | Structured data generator                               | [technicalseo.com](https://technicalseo.com/tools/schema-markup-generator/) |
 | **Schema Pro**               | WordPress plugin for automated Schema markup generation | [wpschema.com](https://wpschema.com)                                        |
+| **LovedByAI**                | WordPress plugin generating schema and FAQ markup plus llms.txt | [lovedby.ai](https://www.lovedby.ai)                                        |
 
 ### AI Citation & Visibility Analytics
 
