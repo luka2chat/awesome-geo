@@ -78,6 +78,7 @@
 | **WorkDuo.ai**     | Best for quick implementation for teams new to AI search optimization                                                                           | [workduo.ai](https://workduo.ai)                 |
 | **Quattr**         | Execution-focused SEO platform that connects traditional search performance with emerging AI visibility signals                                 | [quattr.com](https://quattr.com)                 |
 | **Surfeo**         | AI-powered GEO platform for SMBs; tracks brand visibility across ChatGPT, Gemini, Perplexity & Claude with content generation, audits, and scoring | [surfeo.ai](https://surfeo.ai)                   |
+| **geo-score**      | Open, versioned rubric (MIT) that scores any site 0–100 on AI answer-engine citability; zero-dependency Python CLI, GitHub Action, and a public multi-sector benchmark with published reproducibility | [github.com/jianruntech/geo-score](https://github.com/jianruntech/geo-score) |
 
 ### Content Optimization Tools
 
