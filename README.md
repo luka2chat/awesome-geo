@@ -33,6 +33,7 @@
 - [BRIGHT: A Realistic and Challenging Benchmark for Reasoning-Intensive Retrieval](https://arxiv.org/abs/2407.12883) - Benchmark for evaluating retrieval in reasoning-heavy AI search scenarios.
 - [Search-o1: Agentic Search-Enhanced LLM Reasoning](https://arxiv.org/abs/2501.05366) - Framework combining agentic RAG with LLM reasoning for complex search tasks.
 - [Is ChatGPT Good at Search?](https://arxiv.org/abs/2304.09542) - Empirical evaluation of ChatGPT's search quality, providing insights into optimizing for conversational AI.
+- [One Day of AI Reading (Engagemii)](https://engagemii.com/research/one-day-of-ai-reading) - Crawl-log study of 5.7M AI crawler reads of a 60M-company index in 24 hours, per engine, IP-verified.
 
 ### Articles & Guides
 
