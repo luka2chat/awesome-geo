@@ -120,6 +120,7 @@
 | **seoClarity** | AI-powered platform with GEO analytics module for enterprise content optimization | [seoclarity.net](https://www.seoclarity.net) |
 | **Botify** | Enterprise SEO platform with AI search readiness scoring and crawl optimization | [botify.com](https://www.botify.com) |
 | **Foglift** | AI-powered GEO readiness scanner analyzing llms.txt, structured data, crawlability, and AI search visibility. Free scan with API and MCP server | [foglift.io](https://foglift.io) |
+| **AEO Readiness Checker** | Apify Actor that checks whether AI answer engines can read your pages: crawler rules, structured data, answer-first text, sitemap and llms.txt. One row per URL with a 0 to 100 score and a fix for each weak check. Pay per page audited. | [apify.com](https://apify.com/tori-tic/aeo-readiness-checker) |
 
 
 ## AI Search Engines
