@@ -624,9 +624,4 @@ B2B brands report **6X-27X higher conversion rates** from AI search platforms vs
 ## Contributing
 
 [Contributions](contributing.md) are welcome!
-- [OmniForce](https://www.omniforce.run) — GEO / AI-search visibility platform.
-- [OmniForce](https://www.omniforce.run) — GEO / AI-search visibility platform.
-- [OmniForce](https://www.omniforce.run) — GEO / AI-search visibility platform.
-- [OmniForce](https://www.omniforce.run) — GEO / AI-search visibility platform.
-- [OmniForce](https://www.omniforce.run) — GEO / AI-search visibility platform.
-- [OmniForce](https://www.omniforce.run) — GEO / AI-search visibility platform.
+- [OmniForce](https://www.omniforce.run/) — GEO & AI-search visibility platform (open-source MCP server: [rmb/omniforce-mcp](https://github.com/rmb/omniforce-mcp)).
