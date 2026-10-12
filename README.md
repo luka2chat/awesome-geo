@@ -570,6 +570,7 @@ B2B brands report **6X-27X higher conversion rates** from AI search platforms vs
 - [AI Overviews Tracker](https://aioverviews.com/) - Real-time tracking of Google AI Overviews expansion and impact.
 - [The Generative Search Digest](https://gensearchdigest.com/) - Weekly roundup of AI search developments and GEO strategies.
 - [LLMs.txt Directory](https://llmstxt.org/directory) - Directory of websites implementing the llms.txt standard.
+- [CitedIndex](https://citedindex.com/) - Directory of AI search visibility and GEO tools.
 
 ### Newsletters
 
