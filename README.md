@@ -84,6 +84,7 @@
 | **WorkDuo.ai**     | Best for quick implementation for teams new to AI search optimization                                                                           | [workduo.ai](https://workduo.ai)                 |
 | **Quattr**         | Execution-focused SEO platform that connects traditional search performance with emerging AI visibility signals                                 | [quattr.com](https://quattr.com)                 |
 | **Surfeo**         | AI-powered GEO platform for SMBs; tracks brand visibility across ChatGPT, Gemini, Perplexity & Claude with content generation, audits, and scoring | [surfeo.ai](https://surfeo.ai)                   |
+| **NeverDrafts**    | Tracks visibility, citations and share of voice across ChatGPT, Claude, Google AI Mode & Perplexity, then writes and auto-publishes content for the prompts you're losing | [neverdrafts.com](https://www.neverdrafts.com) |
 
 ### Content Optimization Tools
 
