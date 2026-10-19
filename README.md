@@ -62,7 +62,7 @@
 
 - [Marketing Against the Grain](https://www.hubspot.com/marketing-against-the-grain) - HubSpot marketing podcast, frequently discussing AI marketing and GEO topics.
 - [SEOFOMO Weekly](https://seofomo.co/) - Aleyda Solis' weekly SEO & AI search newsletter with podcast episodes.
-
+- [Nine AI Search Visibility Checks](https://proofposts.com/checklist) - A free, sign-up-free checklist of nine checks that explain why an AI assistant may not name a business, each with a way to test it yourself.
 
 ## Tools & Platforms
 
