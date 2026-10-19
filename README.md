@@ -51,6 +51,7 @@
 - [Optimizing Content for ChatGPT and AI Assistants](https://ahrefs.com/blog/ai-seo/) - Ahrefs' AI content optimization strategies.
 - [How to Optimize for Google AI Overviews 2026](https://becomingseo.com/insights/aeo-geo/optimize-for-google-ai-overviews/) - Comprehensive guide to optimizing for Google AI Overviews.
 - [Why AI Assistants Pass Over HVAC Contractors](https://pickedbyagents.com/reports/why-ai-passes-hvac-contractors) - Data study of the reasons AI assistants gave for passing over local HVAC companies, with an [open dataset](https://github.com/gregm711/ai-assistant-hvac-picks) of picks and reasons in 2,383 cities.
+- [IndicGEO: English and Hinglish AI Shopping Responses](https://github.com/ifham001/IndicGEO) - Open dataset of 959 AI responses to paired English/Hinglish shopping prompts, with raw captures and reproducible analyses of brand mentions and cited sources across two 2026 collection dates.
 
 ### Video Tutorials
 - [Forget SEO Hacks — GEO Is About Credibility, Clarity, and Control](https://www.youtube.com/watch?v=-PFBgavuFrs) - In-depth GEO strategy focusing on building AI visibility through authority.
