@@ -84,6 +84,7 @@
 | **WorkDuo.ai**     | Best for quick implementation for teams new to AI search optimization                                                                           | [workduo.ai](https://workduo.ai)                 |
 | **Quattr**         | Execution-focused SEO platform that connects traditional search performance with emerging AI visibility signals                                 | [quattr.com](https://quattr.com)                 |
 | **Surfeo**         | AI-powered GEO platform for SMBs; tracks brand visibility across ChatGPT, Gemini, Perplexity & Claude with content generation, audits, and scoring | [surfeo.ai](https://surfeo.ai)                   |
+| **Rankwise**       | Tracks whether ChatGPT, Perplexity, Claude, Gemini and Google AI Overviews cite a brand, drafts articles for the questions it loses, and lists technical fixes for AI crawlers. MCP server and REST API. From $59/mo. | [tryrankwise.com](https://tryrankwise.com) |
 
 ### Content Optimization Tools
 
