@@ -84,6 +84,7 @@
 | **SEOTalos**       | 最适合 AI 模式和 AIO 追踪                                                         | [seotalos.com](https://seotalos.com)             |
 | **WorkDuo.ai**     | 最适合 AI 搜索优化新手团队快速实施                                                       | [workduo.ai](https://workduo.ai)                 |
 | **Quattr**         | 专注于执行的 SEO 平台，连接传统搜索性能与新兴 AI 可见性信号                                        | [quattr.com](https://quattr.com)                 |
+| **Seonix**         | 面向小企业和 SaaS 的自动化 SEO 平台，追踪品牌在 ChatGPT、Gemini、Claude 和 Perplexity 回答中的提及，并提供含 AI 搜索就绪检查的技术审计、Search Console 排名和定时 AI 文章；免费审计套餐 | [seonix.ai](https://seonix.ai)                   |
 
 ### 内容优化工具
 
