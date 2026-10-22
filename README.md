@@ -115,6 +115,7 @@
 | **Google Rich Results Test** | Test structured data                                    | [Google Tool](https://search.google.com/test/rich-results)                  |
 | **Schema Markup Generator**  | Structured data generator                               | [technicalseo.com](https://technicalseo.com/tools/schema-markup-generator/) |
 | **Schema Pro**               | WordPress plugin for automated Schema markup generation | [wpschema.com](https://wpschema.com)                                        |
+| **INITE Agents** | Publishes the facts a business confirmed (services, prices, hours, FAQ) as JSON-LD, llms.txt, an A2A card and an MCP server; WordPress plugin and Next.js package | [github.com/inite-ai/inite-agents-wordpress](https://github.com/inite-ai/inite-agents-wordpress) |
 
 ### AI Citation & Visibility Analytics
 
