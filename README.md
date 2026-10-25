@@ -51,6 +51,8 @@
 - [Optimizing Content for ChatGPT and AI Assistants](https://ahrefs.com/blog/ai-seo/) - Ahrefs' AI content optimization strategies.
 - [How to Optimize for Google AI Overviews 2026](https://becomingseo.com/insights/aeo-geo/optimize-for-google-ai-overviews/) - Comprehensive guide to optimizing for Google AI Overviews.
 - [Why AI Assistants Pass Over HVAC Contractors](https://pickedbyagents.com/reports/why-ai-passes-hvac-contractors) - Data study of the reasons AI assistants gave for passing over local HVAC companies, with an [open dataset](https://github.com/gregm711/ai-assistant-hvac-picks) of picks and reasons in 2,383 cities.
+- [State of AI Crawler Access, October 2026](https://queryrev.com/research/ai-crawler-access) - Data study of how 9,973 Tranco top sites treat 11 AI crawlers in robots.txt and how complete their llms.txt files are, with every figure on three denominators and an [open dataset](https://doi.org/10.5281/zenodo.23424275) (CC BY 4.0). Published by QueryRev Research.
+- [AI-Search Readiness of Top Sites, October 2026](https://queryrev.com/research/ai-search-readiness) - Data study of Organization schema, sameAs links, FAQ data, sitemaps and llms.txt on the home pages of the same 9,973 sites, with an [open dataset](https://doi.org/10.5281/zenodo.23632472) under CC BY 4.0.
 
 ### Video Tutorials
 - [Forget SEO Hacks — GEO Is About Credibility, Clarity, and Control](https://www.youtube.com/watch?v=-PFBgavuFrs) - In-depth GEO strategy focusing on building AI visibility through authority.
@@ -97,6 +99,7 @@
 | **Writesonic**      | AI content generation platform with AEO features.                                                                                   | [writesonic.com](https://writesonic.com)         |
 | **Answer Socrates** | Best for GEO Keyword Discovery                                                                                                      | [answersocrates.com](https://answersocrates.com) |
 | **geo-check**       | Open source CLI that scores a site's AI crawler access and readability from robots.txt, sitemap, llms.txt and sampled pages. No LLM in the scoring path | [github.com/vasco-branco06/geo-check](https://github.com/vasco-branco06/geo-check) |
+| **QueryRev llms.txt Generator and Checker** | Free web tool that drafts an llms.txt from a site's robots.txt and sitemap, and checks a live /llms.txt against the llmstxt.org structure. No sign-up | [queryrev.com](https://queryrev.com/tools/llms-txt-generator) |
 
 ### Brand Monitoring
 
