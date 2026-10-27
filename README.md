@@ -115,6 +115,7 @@
 | **Google Rich Results Test** | Test structured data                                    | [Google Tool](https://search.google.com/test/rich-results)                  |
 | **Schema Markup Generator**  | Structured data generator                               | [technicalseo.com](https://technicalseo.com/tools/schema-markup-generator/) |
 | **Schema Pro**               | WordPress plugin for automated Schema markup generation | [wpschema.com](https://wpschema.com)                                        |
+| **ToBeFound llms.txt Generator** | Free browser-based generator that writes an llms.txt file from company, summary, key pages and contact. | [tobefound.xyz](https://tobefound.xyz/llms-txt-generator/) |
 
 ### AI Citation & Visibility Analytics
 
