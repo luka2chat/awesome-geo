@@ -674,6 +674,7 @@ B2B brands report **6X-27X higher conversion rates** from AI search platforms vs
 | **New SEO 2026: AI Search Playbook** | Martin Novak                 | Optimization for AI answer engines.                                          |
 | **AI-First SEO**                     | Danny Sullivan, Gary Illyes  | Google's perspective on AI search.                                           |
 | **Prompt Engineering for SEO**       | James Reynolds               | Bridging prompt engineering and search optimization.                         |
+| **[IDAEO: Market Strategy for the AI Era](https://doi.org/10.5281/zenodo.23691711)** | TK Lin | Free CC BY 4.0 book in four languages: ID → IDA → AEO, the AI Customer Journey (4 phases, 10 steps), 220 days of first-party data. |
 
 
 ## GEO Checklist
