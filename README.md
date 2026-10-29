@@ -97,6 +97,7 @@
 | **Writesonic**      | AI content generation platform with AEO features.                                                                                   | [writesonic.com](https://writesonic.com)         |
 | **Answer Socrates** | Best for GEO Keyword Discovery                                                                                                      | [answersocrates.com](https://answersocrates.com) |
 | **geo-check**       | Open source CLI that scores a site's AI crawler access and readability from robots.txt, sitemap, llms.txt and sampled pages. No LLM in the scoring path | [github.com/vasco-branco06/geo-check](https://github.com/vasco-branco06/geo-check) |
+| **NodeThemes SEO AI** | Open-source WordPress and WooCommerce plugin: SEO and AI-readiness score per page, llms.txt, JSON-LD schema with FAQ, AI crawler log and AI-visibility tracking with your own OpenAI, Claude or Gemini key | [nodethemes.com](https://nodethemes.com/product/nodethemes-seo-ai-pro-ai-seo-plugin-for-wordpress-woocommerce/) |
 
 ### Brand Monitoring
 
