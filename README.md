@@ -38,6 +38,7 @@
 - [GEO-Bench: Benchmarking Ranking Manipulation in Generative Engine Optimization](https://arxiv.org/abs/2605.29107) - May 2026 benchmark comparing black-box, white-box, and white-hat GEO strategies under one protocol, scoring both effectiveness and stealth.
 - [Beyond the Vacuum: Combinatorial Strategy Selection for Competitor-Aware Generative Engine Optimization](https://arxiv.org/abs/2608.27631) - August 2026 paper showing that optimal rewriting strategies shift as competitors also optimize.
 - [Agent2UCB: Agentic System for Generative Engine Optimization](https://arxiv.org/abs/2608.29063) - August 2026 agentic GEO system that picks among nine strategies with a bandit policy while checking SEO quality and E-E-A-T-style credibility.
+- [The B2B SaaS AI Visibility Benchmark 2026](https://citant.ai/research/b2b-saas-ai-visibility-benchmark-2026/) - October 2026 study and open dataset (CC BY 4.0, DOI 10.5281/zenodo.23350790) testing 94 B2B SaaS brands on 50 buying questions across ChatGPT, Claude, Perplexity, Google Gemini and Google AI Overviews; 32 of 94 brands were named on none of the five platforms.
 
 ### Articles & Guides
 
