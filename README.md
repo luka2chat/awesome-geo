@@ -128,6 +128,7 @@
 | **Botify** | Enterprise SEO platform with AI search readiness scoring and crawl optimization | [botify.com](https://www.botify.com) |
 | **Foglift** | AI-powered GEO readiness scanner analyzing llms.txt, structured data, crawlability, and AI search visibility. Free scan with API and MCP server | [foglift.io](https://foglift.io) |
 | **auto-geo** | Open-source CLI that audits pages for AI-citation readiness and measures whether ChatGPT, Claude, Gemini, Perplexity, and Grok cite a domain | [github.com/shadowresearch/auto-geo](https://github.com/shadowresearch/auto-geo) |
+| **Seen in AI Answers** | Human-delivered AI visibility audit service (not software): a written report that checks 10 customer questions in ChatGPT, Perplexity and Google AI Overviews, shows who is cited instead, and lists the 3 fixes that matter most; paid, from $49 | [seeninaianswers.com](https://seeninaianswers.com/) |
 
 
 ## AI Search Engines
@@ -653,9 +654,7 @@ B2B brands report **6X-27X higher conversion rates** from AI search platforms vs
 - [Generative Engine Optimization 2026: Latest Trends & AI Search Impact](https://geneo.app/blog/generative-engine-optimization-2026-trends/) - GENeo's curated GEO trend reports.
 - [Next AI SEO](https://nextaiseo.com/) - Dedicated to AI search visibility strategies and GEO insights.
 - [AEO Press](https://www.aeo.press/) - News and analysis on AI engine optimization.
-- [AI Overviews Tracker](https://aioverviews.com/) - Real-time tracking of Google AI Overviews expansion and impact.
-- [The Generative Search Digest](https://gensearchdigest.com/) - Weekly roundup of AI search developments and GEO strategies.
-- [LLMs.txt Directory](https://llmstxt.org/directory) - Directory of websites implementing the llms.txt standard.
+- [LLMs.txt Directories](https://llmstxt.org/#directories) - List of directories that index websites implementing the llms.txt standard.
 
 ### Newsletters
 
