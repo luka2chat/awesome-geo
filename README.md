@@ -115,6 +115,7 @@
 | **Google Rich Results Test** | Test structured data                                    | [Google Tool](https://search.google.com/test/rich-results)                  |
 | **Schema Markup Generator**  | Structured data generator                               | [technicalseo.com](https://technicalseo.com/tools/schema-markup-generator/) |
 | **Schema Pro**               | WordPress plugin for automated Schema markup generation | [wpschema.com](https://wpschema.com)                                        |
+| **Local Business Schema Generator** | Free LocalBusiness JSON-LD generator | [313automations.com](https://313automations.com/free-tools/local-business-schema-generator) |
 
 ### AI Citation & Visibility Analytics
 
