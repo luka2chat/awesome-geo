@@ -97,6 +97,7 @@
 | **Writesonic**      | AI content generation platform with AEO features.                                                                                   | [writesonic.com](https://writesonic.com)         |
 | **Answer Socrates** | Best for GEO Keyword Discovery                                                                                                      | [answersocrates.com](https://answersocrates.com) |
 | **geo-check**       | Open source CLI that scores a site's AI crawler access and readability from robots.txt, sitemap, llms.txt and sampled pages. No LLM in the scoring path | [github.com/vasco-branco06/geo-check](https://github.com/vasco-branco06/geo-check) |
+| **Cite Unseen**     | Free scan of what a site declares to AI answer engines (crawler rules, sitemap, canonicals, structured data, raw-HTML text), with no score or account; optional paid audits add human review | [citeunseen.io](https://citeunseen.io) |
 
 ### Brand Monitoring
 
