@@ -51,6 +51,7 @@
 - [Optimizing Content for ChatGPT and AI Assistants](https://ahrefs.com/blog/ai-seo/) - Ahrefs' AI content optimization strategies.
 - [How to Optimize for Google AI Overviews 2026](https://becomingseo.com/insights/aeo-geo/optimize-for-google-ai-overviews/) - Comprehensive guide to optimizing for Google AI Overviews.
 - [Why AI Assistants Pass Over HVAC Contractors](https://pickedbyagents.com/reports/why-ai-passes-hvac-contractors) - Data study of the reasons AI assistants gave for passing over local HVAC companies, with an [open dataset](https://github.com/gregm711/ai-assistant-hvac-picks) of picks and reasons in 2,383 cities.
+- [Who Blocks Which AI Bots? robots.txt of the Tranco Top 1,000](https://huggingface.co/datasets/skaldanalytics/ai-bots-robots-txt-top1000) - Data study of how the robots.txt files of the Tranco top 1,000 domains (527 readable) treat 16 AI search, training and user-fetch crawlers in October 2026; 42 sites block GPTBot but not OAI-SearchBot. Includes the matched lines per site and a CC BY 4.0 dataset (DOI [10.5281/zenodo.23617047](https://doi.org/10.5281/zenodo.23617047)).
 
 ### Video Tutorials
 - [Forget SEO Hacks — GEO Is About Credibility, Clarity, and Control](https://www.youtube.com/watch?v=-PFBgavuFrs) - In-depth GEO strategy focusing on building AI visibility through authority.
