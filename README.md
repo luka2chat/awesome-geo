@@ -115,6 +115,7 @@
 | **Google Rich Results Test** | Test structured data                                    | [Google Tool](https://search.google.com/test/rich-results)                  |
 | **Schema Markup Generator**  | Structured data generator                               | [technicalseo.com](https://technicalseo.com/tools/schema-markup-generator/) |
 | **Schema Pro**               | WordPress plugin for automated Schema markup generation | [wpschema.com](https://wpschema.com)                                        |
+| **Ajay Padhy Schema Markup Generator** | Free JSON-LD generator for 12 types with required-field checks | [ajaypadhy.com](https://ajaypadhy.com/tools/schema-markup-generator) |
 
 ### AI Citation & Visibility Analytics
 
