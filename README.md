@@ -51,6 +51,8 @@
 - [Optimizing Content for ChatGPT and AI Assistants](https://ahrefs.com/blog/ai-seo/) - Ahrefs' AI content optimization strategies.
 - [How to Optimize for Google AI Overviews 2026](https://becomingseo.com/insights/aeo-geo/optimize-for-google-ai-overviews/) - Comprehensive guide to optimizing for Google AI Overviews.
 - [Why AI Assistants Pass Over HVAC Contractors](https://pickedbyagents.com/reports/why-ai-passes-hvac-contractors) - Data study of the reasons AI assistants gave for passing over local HVAC companies, with an [open dataset](https://github.com/gregm711/ai-assistant-hvac-picks) of picks and reasons in 2,383 cities.
+- [Where ChatGPT Gets Its Local Picks](https://topofthechat.com/research/where-chatgpt-looks/) - Study of the sites ChatGPT search cited when asked for a dentist, plumber, lawyer or other local business in 11 US towns: review and listing sites fed 61 of 66 answers that cited anything, Birdeye alone 39, and no answer cited only business websites.
+- [Which Website Builders Let ChatGPT In](https://topofthechat.com/research/website-builders-chatgpt/) - Test of 1,287 small business homepages fetched as ChatGPT, Claude and Perplexity: every Squarespace, Wix, Shopify, Webflow and Duda site let them in, while 21 of 23 ProSites, LifeLearn and CPA Site Solutions sites turned ChatGPT away.
 
 ### Video Tutorials
 - [Forget SEO Hacks — GEO Is About Credibility, Clarity, and Control](https://www.youtube.com/watch?v=-PFBgavuFrs) - In-depth GEO strategy focusing on building AI visibility through authority.
