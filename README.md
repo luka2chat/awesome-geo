@@ -51,6 +51,7 @@
 - [Optimizing Content for ChatGPT and AI Assistants](https://ahrefs.com/blog/ai-seo/) - Ahrefs' AI content optimization strategies.
 - [How to Optimize for Google AI Overviews 2026](https://becomingseo.com/insights/aeo-geo/optimize-for-google-ai-overviews/) - Comprehensive guide to optimizing for Google AI Overviews.
 - [Why AI Assistants Pass Over HVAC Contractors](https://pickedbyagents.com/reports/why-ai-passes-hvac-contractors) - Data study of the reasons AI assistants gave for passing over local HVAC companies, with an [open dataset](https://github.com/gregm711/ai-assistant-hvac-picks) of picks and reasons in 2,383 cities.
+- [Do AI Engines Cite the Same Sources?](https://ismybrandinai.com/do-ai-engines-cite-the-same-sources) - Data study of 12 B2B SaaS buyer questions put to ChatGPT, Perplexity, Gemini and Google AI Overviews. On the seven recommendation questions, the engines agreed on 32% of the brands they recommended but 1% of the sources they cited. With an [open CC BY 4.0 dataset](https://doi.org/10.5281/zenodo.23427371).
 
 ### Video Tutorials
 - [Forget SEO Hacks — GEO Is About Credibility, Clarity, and Control](https://www.youtube.com/watch?v=-PFBgavuFrs) - In-depth GEO strategy focusing on building AI visibility through authority.
