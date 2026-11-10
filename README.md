@@ -97,6 +97,7 @@
 | **Writesonic**      | AI content generation platform with AEO features.                                                                                   | [writesonic.com](https://writesonic.com)         |
 | **Answer Socrates** | Best for GEO Keyword Discovery                                                                                                      | [answersocrates.com](https://answersocrates.com) |
 | **geo-check**       | Open source CLI that scores a site's AI crawler access and readability from robots.txt, sitemap, llms.txt and sampled pages. No LLM in the scoring path | [github.com/vasco-branco06/geo-check](https://github.com/vasco-branco06/geo-check) |
+| **PolyDraft**       | AI website builder that researches, writes, and builds a complete site from a business brief, then publishes to infrastructure the customer owns | [polydraft.ai](https://polydraft.ai) |
 
 ### Brand Monitoring
 

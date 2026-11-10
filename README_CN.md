@@ -97,6 +97,7 @@
 | **Writesonic**      | 具有 AEO 功能的 AI 内容生成平台                                                          | [writesonic.com](https://writesonic.com)         |
 | **Answer Socrates** | 最适合 GEO 关键词发现                                                                 | [answersocrates.com](https://answersocrates.com) |
 | **geo-check**       | 开源命令行工具，基于 robots.txt、sitemap、llms.txt 和抽样页面为网站的 AI 爬虫可访问性与可读性打分，评分过程不依赖 LLM | [github.com/vasco-branco06/geo-check](https://github.com/vasco-branco06/geo-check) |
+| **PolyDraft**       | AI 网站构建工具，可根据业务简报完成调研、撰写并生成完整网站，再发布到客户自有的基础设施上 | [polydraft.ai](https://polydraft.ai) |
 
 ### 品牌监测
 
