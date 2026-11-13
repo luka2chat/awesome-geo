@@ -127,6 +127,7 @@
 | **seoClarity**                | 带有 GEO 分析模块的 AI 驱动企业内容优化平台                            | [seoclarity.net](https://www.seoclarity.net)           |
 | **Botify**                    | 具有 AI 搜索就绪度评分和爬虫优化的企业 SEO 平台                          | [botify.com](https://www.botify.com)                   |
 | **auto-geo**                  | 开源命令行工具，审计页面的 AI 引用就绪度，并测量 ChatGPT、Claude、Gemini、Perplexity 和 Grok 是否引用某个域名 | [github.com/shadowresearch/auto-geo](https://github.com/shadowresearch/auto-geo) |
+| **GoAnyAPI**                  | SEO 与 SERP 数据 API（含面向 Agent 的 MCP server），返回 Google AI Overview 和 AI Mode 的回答及其引用来源，并提供 SERP、关键词、外链与流量指标，可嵌入 GEO 工作流 | [goanyapi.com](https://goanyapi.com) |
 
 
 ## AI 搜索引擎
