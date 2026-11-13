@@ -84,6 +84,7 @@
 | **SEOTalos**       | 最适合 AI 模式和 AIO 追踪                                                         | [seotalos.com](https://seotalos.com)             |
 | **WorkDuo.ai**     | 最适合 AI 搜索优化新手团队快速实施                                                       | [workduo.ai](https://workduo.ai)                 |
 | **Quattr**         | 专注于执行的 SEO 平台，连接传统搜索性能与新兴 AI 可见性信号                                        | [quattr.com](https://quattr.com)                 |
+| **LLM Scout** | 追踪买家提示词在 ChatGPT、Claude、Gemini 和 Perplexity 中的品牌提及、引用和竞品可见度，并提供每周报告 | [llmscout.co](https://llmscout.co) |
 
 ### 内容优化工具
 
