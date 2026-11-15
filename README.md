@@ -128,6 +128,7 @@
 | **Botify** | Enterprise SEO platform with AI search readiness scoring and crawl optimization | [botify.com](https://www.botify.com) |
 | **Foglift** | AI-powered GEO readiness scanner analyzing llms.txt, structured data, crawlability, and AI search visibility. Free scan with API and MCP server | [foglift.io](https://foglift.io) |
 | **auto-geo** | Open-source CLI that audits pages for AI-citation readiness and measures whether ChatGPT, Claude, Gemini, Perplexity, and Grok cite a domain | [github.com/shadowresearch/auto-geo](https://github.com/shadowresearch/auto-geo) |
+| **AgentsReady** | Free, no-signup check of whether ChatGPT, Claude and Perplexity can read and use a site: AI bot access, server-rendered HTML, structured data, llms.txt, OpenAPI and MCP, plus an AI agent that tries a real job (answer a question, buy, sign up, get an API key). 0-100 score with paste-ready fixes | [agentsready.dev](https://agentsready.dev) |
 
 
 ## AI Search Engines
