@@ -76,6 +76,7 @@
 | **Contently**      | Content creation, optimization, and AI visibility tracking in one system                                                                        | [contently.com](https://contently.com)           |
 | **Profound**       | Deep geo-analysis with multi-language support for AI brand visibility                                                                           | [profound.ai](https://profound.ai)               |
 | **Otterly.AI**     | AI search engine ranking tracker                                                                                                                | [otterly.ai](https://otterly.ai)                 |
+| **No Stairs Please MCP** | Public MCP server exposing structured venue data for 1,700+ US and Canadian live-music venues | [nostairsplease.com/mcp](https://nostairsplease.com/mcp) |
 | **Peec AI**        | Analyze brand mentions in AI search                                                                                                             | [peec.ai](https://peec.ai)                       |
 | **Ezeo**           | AI-powered SEO, GEO & AEO platform tracking ChatGPT, Claude, Perplexity, Gemini, Grok, and Reddit                                               | [ezeo.ai](https://ezeo.ai)                       |
 | **Prompt Monitor** | Track and optimize AI search performance with prompt-level analytics                                                                            | [promptmonitor.io](https://www.promptmonitor.io) |
