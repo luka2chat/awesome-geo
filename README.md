@@ -84,6 +84,7 @@
 | **WorkDuo.ai**     | Best for quick implementation for teams new to AI search optimization                                                                           | [workduo.ai](https://workduo.ai)                 |
 | **Quattr**         | Execution-focused SEO platform that connects traditional search performance with emerging AI visibility signals                                 | [quattr.com](https://quattr.com)                 |
 | **Surfeo**         | AI-powered GEO platform for SMBs; tracks brand visibility across ChatGPT, Gemini, Perplexity & Claude with content generation, audits, and scoring | [surfeo.ai](https://surfeo.ai)                   |
+| **LLMMonitor**     | Tracks brand mentions, position, sentiment and cited sources across ChatGPT, Claude, Gemini, Google AI Mode and Microsoft Copilot; free plan with 3 prompts, paid plans from €29/mo | [llmmonitor.io](https://llmmonitor.io)          |
 
 ### Content Optimization Tools
 
