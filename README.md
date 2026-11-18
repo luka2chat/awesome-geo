@@ -84,6 +84,7 @@
 | **WorkDuo.ai**     | Best for quick implementation for teams new to AI search optimization                                                                           | [workduo.ai](https://workduo.ai)                 |
 | **Quattr**         | Execution-focused SEO platform that connects traditional search performance with emerging AI visibility signals                                 | [quattr.com](https://quattr.com)                 |
 | **Surfeo**         | AI-powered GEO platform for SMBs; tracks brand visibility across ChatGPT, Gemini, Perplexity & Claude with content generation, audits, and scoring | [surfeo.ai](https://surfeo.ai)                   |
+| **Elmo** | Open-source Profound alternative that tracks how ChatGPT, Claude, Perplexity, Gemini and Google AI Overviews mention and cite a brand, available self-hosted or as a managed cloud service | [github.com/elmohq/elmo](https://github.com/elmohq/elmo) |
 
 ### Content Optimization Tools
 
