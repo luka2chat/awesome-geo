@@ -84,6 +84,7 @@
 | **WorkDuo.ai**     | Best for quick implementation for teams new to AI search optimization                                                                           | [workduo.ai](https://workduo.ai)                 |
 | **Quattr**         | Execution-focused SEO platform that connects traditional search performance with emerging AI visibility signals                                 | [quattr.com](https://quattr.com)                 |
 | **Surfeo**         | AI-powered GEO platform for SMBs; tracks brand visibility across ChatGPT, Gemini, Perplexity & Claude with content generation, audits, and scoring | [surfeo.ai](https://surfeo.ai)                   |
+| **Reachd**         | AI visibility tool for business owners with no time for keywords, prompts or reports. Paste your website, and Reachd does the work of an SEO team until the business becomes the #1 pick in AI answers for its category | [reachd.ai](https://reachd.ai) |
 
 ### Content Optimization Tools
 
