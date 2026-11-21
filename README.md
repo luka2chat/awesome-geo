@@ -84,6 +84,7 @@
 | **WorkDuo.ai**     | Best for quick implementation for teams new to AI search optimization                                                                           | [workduo.ai](https://workduo.ai)                 |
 | **Quattr**         | Execution-focused SEO platform that connects traditional search performance with emerging AI visibility signals                                 | [quattr.com](https://quattr.com)                 |
 | **Surfeo**         | AI-powered GEO platform for SMBs; tracks brand visibility across ChatGPT, Gemini, Perplexity & Claude with content generation, audits, and scoring | [surfeo.ai](https://surfeo.ai)                   |
+| **Google AI Overview API** | Returns the Google AI Overview answer and its cited sources for a query as JSON, for tracking which pages Google's AI cites                        | [apify.com/johnvc/Google-AI-Overview-API](https://apify.com/johnvc/Google-AI-Overview-API) |
 
 ### Content Optimization Tools
 
