@@ -84,6 +84,7 @@
 | **WorkDuo.ai**     | Best for quick implementation for teams new to AI search optimization                                                                           | [workduo.ai](https://workduo.ai)                 |
 | **Quattr**         | Execution-focused SEO platform that connects traditional search performance with emerging AI visibility signals                                 | [quattr.com](https://quattr.com)                 |
 | **Surfeo**         | AI-powered GEO platform for SMBs; tracks brand visibility across ChatGPT, Gemini, Perplexity & Claude with content generation, audits, and scoring | [surfeo.ai](https://surfeo.ai)                   |
+| **SupaSEO**        | Local SEO and AI citation tracking — Google Maps rank grids, organic results, and AI citations via your own provider keys; one-time license     | [supaseo.dev](https://supaseo.dev)               |
 
 ### Content Optimization Tools
 
