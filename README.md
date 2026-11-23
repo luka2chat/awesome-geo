@@ -51,6 +51,7 @@
 - [Optimizing Content for ChatGPT and AI Assistants](https://ahrefs.com/blog/ai-seo/) - Ahrefs' AI content optimization strategies.
 - [How to Optimize for Google AI Overviews 2026](https://becomingseo.com/insights/aeo-geo/optimize-for-google-ai-overviews/) - Comprehensive guide to optimizing for Google AI Overviews.
 - [Why AI Assistants Pass Over HVAC Contractors](https://pickedbyagents.com/reports/why-ai-passes-hvac-contractors) - Data study of the reasons AI assistants gave for passing over local HVAC companies, with an [open dataset](https://github.com/gregm711/ai-assistant-hvac-picks) of picks and reasons in 2,383 cities.
+- [Namebeam AI Visibility Index](https://github.com/mrcrtr1979-droid/namebeam-visibility-index) - Open dated record of businesses named by AI answer engines for local US questions, 2026-08-05 to 2026-11-22; compilation under CC BY 4.0.
 
 ### Video Tutorials
 - [Forget SEO Hacks — GEO Is About Credibility, Clarity, and Control](https://www.youtube.com/watch?v=-PFBgavuFrs) - In-depth GEO strategy focusing on building AI visibility through authority.
