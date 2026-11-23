@@ -97,6 +97,7 @@
 | **Writesonic**      | AI content generation platform with AEO features.                                                                                   | [writesonic.com](https://writesonic.com)         |
 | **Answer Socrates** | Best for GEO Keyword Discovery                                                                                                      | [answersocrates.com](https://answersocrates.com) |
 | **geo-check**       | Open source CLI that scores a site's AI crawler access and readability from robots.txt, sitemap, llms.txt and sampled pages. No LLM in the scoring path | [github.com/vasco-branco06/geo-check](https://github.com/vasco-branco06/geo-check) |
+| **FUF GEO Checker** | Free web checker that grades AI search bot access (robots.txt, fetch as an AI bot), text without JavaScript and schema.org facts on up to 50 pages. No sign-up, no LLM in the scoring path | [gofuf.com/geo-checker](https://www.gofuf.com/geo-checker) |
 
 ### Brand Monitoring
 
