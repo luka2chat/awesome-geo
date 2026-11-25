@@ -83,7 +83,8 @@
 | **SEOTalos**       | Best for AI Mode & AIO Tracking                                                                                                                 | [seotalos.com](https://seotalos.com)             |
 | **WorkDuo.ai**     | Best for quick implementation for teams new to AI search optimization                                                                           | [workduo.ai](https://workduo.ai)                 |
 | **Quattr**         | Execution-focused SEO platform that connects traditional search performance with emerging AI visibility signals                                 | [quattr.com](https://quattr.com)                 |
-| **Surfeo**         | AI-powered GEO platform for SMBs; tracks brand visibility across ChatGPT, Gemini, Perplexity & Claude with content generation, audits, and scoring | [surfeo.ai](https://surfeo.ai)                   |
+| **Surfeo**         | AI-powered GEO platform for SMBs; tracks brand visibility across ChatGPT, Gemini, Perplexity & Claude with content generation, audits, and scoring | [surfeo.ai](https://surfeo.ai) 
+| **namedyet** | Sends 30 buyer questions to ChatGPT, Claude and Perplexity and shows whether they name you or a competitor, what they get wrong, and what to fix on your website | [namedyet.com](https://namedyet.com) ||
 
 ### Content Optimization Tools
 
