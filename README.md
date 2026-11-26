@@ -41,7 +41,8 @@
 
 ### Articles & Guides
 
-- [Mastering Generative Engine Optimization in 2026: Full Guide](https://searchengineland.com/mastering-generative-engine-optimization-in-2026-full-guide-469142) - Search Engine Land's comprehensive 2026 GEO guide covering strategy, measurement, and implementation.
+- [Mastering Generative Engine Optimization in 2026: Full Guide](https://searchengineland.com/mastering-generative-engine-optimization-in-2026-full-guide-469142)
+- [How ChatGPT and Gemini Actually Search the Web: Analyzing 36,000+ Native Fan-Out Queries](https://www.innflows.com/blog/seo/how-chatgpt-and-gemini-search-the-web-36k-query-study) - Empirical study of 36,000+ native search fan-out queries showing 44.5% `site:` operator usage in ChatGPT vs. 0% in Gemini. - Search Engine Land's comprehensive 2026 GEO guide covering strategy, measurement, and implementation.
 - [Generative Engine Optimization (GEO): How to Win in AI Search](https://backlinko.com/generative-engine-optimization-geo) - Backlinko's data-backed GEO guide with practical optimization strategies.
 - [Generative Engine Optimization (GEO): A Marketer's Guide in 2026](https://www.webfx.com/blog/ai/generative-engine-optimization/) - WebFX's marketer-focused GEO guide.
 - [Complete Guide to Generative Engine Optimization (GEO) 2026](https://www.promptmonitor.io/blog/generative-engine-optimization) - Step-by-step GEO implementation guide with measurement framework.
@@ -84,6 +85,7 @@
 | **WorkDuo.ai**     | Best for quick implementation for teams new to AI search optimization                                                                           | [workduo.ai](https://workduo.ai)                 |
 | **Quattr**         | Execution-focused SEO platform that connects traditional search performance with emerging AI visibility signals                                 | [quattr.com](https://quattr.com)                 |
 | **Surfeo**         | AI-powered GEO platform for SMBs; tracks brand visibility across ChatGPT, Gemini, Perplexity & Claude with content generation, audits, and scoring | [surfeo.ai](https://surfeo.ai)                   |
+| **Innflows**       | Multi-engine GEO platform with 5-dimension FLOWS scoring, prompt-level citation tracking (ChatGPT, Gemini, AIO, AI Mode, Grok, DeepSeek, Qwen) & 18-check Website AI-Readiness Audit | [innflows.com](https://www.innflows.com)         |
 
 ### Content Optimization Tools
 
@@ -97,6 +99,7 @@
 | **Writesonic**      | AI content generation platform with AEO features.                                                                                   | [writesonic.com](https://writesonic.com)         |
 | **Answer Socrates** | Best for GEO Keyword Discovery                                                                                                      | [answersocrates.com](https://answersocrates.com) |
 | **geo-check**       | Open source CLI that scores a site's AI crawler access and readability from robots.txt, sitemap, llms.txt and sampled pages. No LLM in the scoring path | [github.com/vasco-branco06/geo-check](https://github.com/vasco-branco06/geo-check) |
+| **ai-readiness-audit** | Zero-dependency open-source CLI & MCP server (`npx @innflows/ai-readiness-audit`) checking 14 AI search crawlers, `/llms.txt`, SSR HTML extractability, and `Schema.org` JSON-LD | [github.com/innflows/website-ai-readiness-audit](https://github.com/innflows/website-ai-readiness-audit) |
 
 ### Brand Monitoring
 
